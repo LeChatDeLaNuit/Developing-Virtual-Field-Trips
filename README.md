@@ -10,17 +10,17 @@ Within this repository, you should find two main folders as well as a few files.
 
 There are two main folders within this repository that you will interact with; these are the "Documents" and "Source Files" folders.
 
-### Documents
+### docs
 
 This will contain the files intended for you to read. This will contain individual files for example lab activities, as well as the comprehensive guide that explains the process and justifications for these labs. These will predominantly be in the HTML format, and should open in the default browser of your choice.
 
-### Source Files
+### source
 
 This folder will contain the code used to develop each of the HTML files in the documents folder. The code is contained in Quarto (*.qmd) documents and can easily be used in RStudio or similar programs.
 
 > Important!
-> For most users: open files in the "Documents" folder.
-> The "Source Files" folder contains editable Quarto project files intended for instructors or developers who wish to modify the materials.
+> For most users: open files in the "docs" folder.
+> The "source" folder contains editable Quarto project files intended for instructors or developers who wish to modify the materials.
 
 ## The Other Files
 
