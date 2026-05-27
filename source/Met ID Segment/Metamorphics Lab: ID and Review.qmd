@@ -1,10 +1,12 @@
 ---
-title: ""
+title: "LAB 6: METAMORPHIC ROCKS & TECTONIC SETTINGS "
 format: html
 ---
 <div style="text-align: center;">
 
-# LAB 6: METAMORPHIC ROCKS & TECTONIC SETTINGS 
+```{=html}
+<script src="https://static.sketchfab.com/api/sketchfab-viewer-1.12.1.js"></script>
+```
 
 </div>
 
@@ -25,6 +27,8 @@ When you have completed this lab, you will be able to:
 * This lab is designed to function on any device, but a computer or laptop will work the best for most. If you do not have access to one of these devices, they may be checked out from the [Thomas Cooper Library](https://sc.edu/about/offices_and_divisions/university_libraries/find_services/borrow/technology/){target="_blank"}.
 * There are a large number of embedded images, videos, and models. If you experience technology issues, refreshing the page is likely to fix them.
 
+>Important! If you wish to use keyboard controls for any of the 3D models, there are "Activation" buttons for each model. Once you have activated the model, you may rotate the model using the arrow keys or zoom using +/- keys. To exit control, press Escape or Tab.
+
 ## Lab Activities
 ### Opening Activity
 
@@ -38,26 +42,42 @@ Provided are 4 pictures of metamorphic rocks, as well as corresponding 3D Models
 
 <img src="https://i.imgur.com/5AFVRDP.jpeg" alt="A light cream-colored rock with medium to large crystals visible." style="width:50vmin;height:auto;">
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Sample 1 Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/370135d0aba44ec38c87c827123db334/embed"> </iframe> </div>
+<div> 
+<button class="skfb-btn" id="btn-1" tabindex="0" aria-label="Button to activate keyboard controls for Sample 1 Model. To exit control, press Escape."> Activate Sample 1 Model Keyboard Controls </button>
+<iframe title="Sample 1 Model. For static image, see above." id="modelsample1" width="100%" height="500" allowfullscreen></iframe>
+</div>
 
 ##### Sample 2
 
 <img src="https://i.imgur.com/H8BG8Dv.jpeg" alt="A brownish-beige colored rock with medium crystals visible." style="width:50vmin;height:auto;">
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Sample 2 Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/65709a84e3944a5bbacd19057ca55d5f/embed"> </iframe> </div>
+<div> 
+<button class="skfb-btn" id="btn-2" tabindex="0" aria-label="Button to activate keyboard controls for Sample 2 Model. To exit control, press Escape."> Activate Sample 2 Model Keyboard Controls </button>
+
+<iframe title="Sample 2 Model. For static image, see above." id="modelsample2" width="100%" height="500" allowfullscreen> </iframe>
+</div>
 
 ##### Sample 3
 
+
 <img src="https://i.imgur.com/dKZZ3mi.jpeg" alt="A black rock with many layers of a dark colored mineral stacked on top of one another." style="width:50vmin;height:auto;">
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Sample 3 Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/dbe54d200c7f45df837ce0b78b8860bf/embed"> </iframe> </div>
+<div> 
+
+<button class="skfb-btn" id="btn-3" tabindex="0" aria-label="Button to activate keyboard controls for Sample 3 Model. To exit control, press Escape."> Activate Sample 3 Model Keyboard Controls </button>
+
+<iframe title="Sample 3 Model. For static image, see above." id="modelsample3" width="100%" height="500" allowfullscreen> </iframe>
+</div>
 
 ##### Sample 4
 
-
 <img src="https://i.imgur.com/vtegM07.jpeg" alt="A rock with alternating bands of light-pink and black minerals." style="width:50vmin;height:auto;">
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Sample 4 Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/63ecacc4aa794f13aa281cf43e8a71f3/embed"> </iframe> </div>
+<div> 
+<button class="skfb-btn" id="btn-4" tabindex="0" aria-label="Button to activate keyboard controls for Sample 4 Model. To exit control, press Escape."> Activate Sample 4 Model Keyboard Controls </button>
+
+<iframe title="Sample 4 Model. For static image, see above." id="modelsample4" width="100%" height="500" allowfullscreen> </iframe>
+</div>
 
 ##### 1. What criteria or properties did you use to "categorize" these rocks?
 
@@ -106,7 +126,7 @@ Your table should include the name of the rock and your explanation for why you 
 Each sample is presented in the following manner:
 
 1. A still image of a sample, with alternative text provided.
-2. An interactive 3D model through Sketchfab. You do not need to leave this document for access. If the model appears small, you are able to expand it to fullscreen. These models can be zoomed into and rotated freely.
+2. An interactive 3D model through Sketchfab. You do not need to leave this document for access. If the model appears small, you are able to expand it to fullscreen. These models can be zoomed into and rotated freely. Keyboard controls can be activated for each.
 3. A dropdown containing additional information. Each contains a description of: 
 * The sample's appearance and any notable traits
 * The sample's density (light, dense, etc.)
@@ -121,7 +141,12 @@ Each sample is presented in the following manner:
 
 <img src="https://i.imgur.com/IZISmef.jpeg" alt="A hand sample of a very dark black colored sample with a highly reflective sheen; almost glassy. Appears to be consistent in color throughout the entirety of the sample." style="width:50vmin;height:auto;">
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Sample A Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/344dd33d2e8242e0a4717a571ec59b18/embed"> </iframe> </div>
+<div> 
+<button class="skfb-btn" id="btn-a" tabindex="0" aria-label="Button to activate keyboard controls for Sample A Model. To exit control, press Escape."> Activate Sample A Model Keyboard Controls </button>
+
+<iframe title="Sample A Model. For static image, see above." id="modelsamplea" width="100%" height="500" allowfullscreen> </iframe>
+</div>
+
 
 
 
@@ -144,7 +169,11 @@ Each sample is presented in the following manner:
 
 <img src="https://i.imgur.com/ycO1kko.jpeg" alt="A hand sample of a light-pink and black rock. The colors appear to be in alternating layers." style="width:50vmin;height:auto;">
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Sample B Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/baecc27f1eb245b89fbcbd3829006c9c/embed"> </iframe> </div>
+<div> 
+<button class="skfb-btn" id="btn-b" tabindex="0" aria-label="Button to activate keyboard controls for Sample B Model. To exit control, press Escape."> Activate Sample B Model Keyboard Controls </button>
+
+<iframe title="Sample B Model. For static image, see above." id="modelsampleb" width="100%" height="500" allowfullscreen> </iframe>
+</div>
 
 <details>
     <summary> Additional Info (Sample B) </summary>
@@ -165,7 +194,11 @@ Each sample is presented in the following manner:
 
 <img src="https://i.imgur.com/SWKsscO.jpeg" alt="A hand sample of a dark-grey rock. Within the sample, individual crystals are too small to easily make out. From a side view, thin layers are visible along the surface where the sample broke. " style="width:50vmin;height:auto;">
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Sample C Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/39857764278746049e60bd9238ed3891/embed"> </iframe> </div>
+<div> 
+<button class="skfb-btn" id="btn-c" tabindex="0" aria-label="Button to activate keyboard controls for Sample C Model. To exit control, press Escape."> Activate Sample C Model Keyboard Controls </button>
+
+<iframe title="Sample C Model. For static image, see above." id="modelsamplec" width="100%" height="500" allowfullscreen> </iframe>
+</div>
 
 <details>
     <summary> Additional Info (Sample C) </summary>
@@ -186,7 +219,12 @@ Each sample is presented in the following manner:
 
 <img src="https://i.imgur.com/dvMFfwE.jpeg" alt="A hand sample of a light beige to white rock. Crystals can be made out and vary in size, but are almost all the same color and slightly transparent like glass. There does not appear to be a distinct layering or order to the crystals." style="width:50vmin;height:auto;">
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Sample D Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/fe71e05bff274beb94af62035e47ced2/embed"> </iframe> </div>
+<div> 
+<button class="skfb-btn" id="btn-d" tabindex="0" aria-label="Button to activate keyboard controls for Sample D Model. To exit control, press Escape."> Activate Sample D Model Keyboard Controls </button>
+
+<iframe title="Sample D Model. For static image, see above." id="modelsampled" width="100%" height="500" allowfullscreen> </iframe>
+</div>
+
 
 <details>
     <summary> Additional Info (Sample D) </summary>
@@ -207,7 +245,11 @@ Each sample is presented in the following manner:
 
 <img src="https://i.imgur.com/ZUZaimq.jpeg" alt="Two hand-samples of varieties of this rock. In both, there are large, flaky crystals at the outermost surfaces. In the sample on the left, these crystals are black in color; on the right, they are instead a light gold in color. From the side, distinct layers can be seen." style="width:50vmin;height:auto;">
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Sample E Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/aea85a461ca2414489bd0b04a4df3bdc/embed"> </iframe> </div>
+<div> 
+<button class="skfb-btn" id="btn-e" tabindex="0" aria-label="Button to activate keyboard controls for Sample E Model. To exit control, press Escape."> Activate Sample E Model Keyboard Controls </button>
+
+<iframe title="Sample E Model. For static image, see above." id="modelsamplee" width="100%" height="500" allowfullscreen> </iframe>
+</div>
 
 <details>
     <summary> Additional Info (Sample E) </summary>
@@ -228,7 +270,11 @@ Each sample is presented in the following manner:
 
 <img src="https://i.imgur.com/AJj9Pby.jpeg" alt="A greyish-brown rock that has some pitting present. Any crystals present are translucent, but do not appear to have any layers." style="width:50vmin;height:auto;">
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Sample F Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/80464256a4a846e3965a036e2e10dcd3/embed"> </iframe> </div>
+<div> 
+<button class="skfb-btn" id="btn-f" tabindex="0" aria-label="Button to activate keyboard controls for Sample F Model. To exit control, press Escape."> Activate Sample F Model Keyboard Controls </button>
+
+<iframe title="Sample F Model. For static image, see above." id="modelsamplef" width="100%" height="500" allowfullscreen> </iframe>
+</div>
 
 <details>
     <summary> Additional Info (Sample F) </summary>
@@ -249,7 +295,11 @@ Each sample is presented in the following manner:
 
 <img src="https://i.imgur.com/xAu3FZV.jpeg" alt="A dark grey-green rock with distinct layers visible from the side. From the top surface, slight wavy patterns can be seen, as can a reflective sheen." style="width:50vmin;height:auto;">
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Sample G Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/e6e65f48dd34464299d3ad8081af06ce/embed"> </iframe> </div>
+<div> 
+<button class="skfb-btn" id="btn-g" tabindex="0" aria-label="Button to activate keyboard controls for Sample G Model. To exit control, press Escape."> Activate Sample G Model Keyboard Controls </button>
+
+<iframe title="Sample G Model. For static image, see above." id="modelsampleg" width="100%" height="500" allowfullscreen> </iframe>
+</div>
 
 <details>
     <summary> Additional Info (Sample G) </summary>
@@ -285,7 +335,7 @@ Fill out the blank spots on the Rock Cycle on page 2 in your lab manual (includi
 
 You have several options to complete this section of the lab. Remember, in order to complete the post-lab quiz, you will need to show your filled in lab manual to your IA. 
 
-+ First, you may follow one of the Rock Tour paths available on the Bloomberg Connects App. For more details on how to download and use this app, [see here](https://www.bloombergconnects.org/about/){target="_blank"}. Once you are in the app, click "University of South Carolina", scroll down to the "History Walking Tours", and flip through the tiles until you see "USC Campus Rock Tour".
++ First, you may follow one of the Rock Tour paths available on the Bloomberg Connects App. [For more details on how to download and use this app, see here](https://www.bloombergconnects.org/about/){target="_blank"}. Once you are in the app, click "University of South Carolina", scroll down to the "History Walking Tours", and flip through the tiles until you see "USC Campus Rock Tour".
 
 + Second, you may follow along with the provided videos and corresponding 3D models. These can be found in Blackboard, in a document labelled "Rock Tour Videos".
 
@@ -296,3 +346,103 @@ Once you have finished the rock tour portion of the lab, please provide feedback
 
 A reminder: this activity's goal is to help prepare you for the midterm as well as apply your existing knowledge. Due to that, it is highly recommended you treat these questions as if you were coming into the midterm. This means you should only utilize the materials you would have for the midterm, such as your lab manual and any notes you have within it.
 
+```{=html}
+<script>
+function createViewer(iframeId, buttonId, uid) {
+
+  const iframe = document.getElementById(iframeId);
+  const button = document.getElementById(buttonId);
+
+  const client = new Sketchfab('1.12.1', iframe);
+
+  let apiRef = null;
+  let active = false;
+
+  client.init(uid, {
+    autostart: 1,
+    success: function(api) {
+      apiRef = api;
+      api.start();
+    }
+  });
+
+  function updateCamera(e) {
+
+    apiRef.getCameraLookAt(function(err, camera) {
+      if (err) return;
+
+      let eye = camera.position;
+      let target = camera.target;
+
+      let dx = eye[0] - target[0];
+      let dy = eye[1] - target[1];
+      let dz = eye[2] - target[2];
+
+      let radius = Math.sqrt(dx*dx + dy*dy + dz*dz);
+      let theta = Math.atan2(dx, dz);
+      let phi = Math.acos(dy / radius);
+
+      switch(e.key) {
+        case 'ArrowLeft': theta -= 0.2; break;
+        case 'ArrowRight': theta += 0.2; break;
+        case 'ArrowUp': phi -= 0.2; break;
+        case 'ArrowDown': phi += 0.2; break;
+        case '+':
+        case '=': radius -= 0.5; break;
+        case '-':
+        case '_': radius += 0.5; break;
+        default: return;
+      }
+
+      let x = target[0] + radius * Math.sin(phi) * Math.sin(theta);
+      let y = target[1] + radius * Math.cos(phi);
+      let z = target[2] + radius * Math.sin(phi) * Math.cos(theta);
+
+      apiRef.setCameraLookAt([x, y, z], target, 0.1);
+    });
+  }
+
+  // Fixes Tab issues
+  button.addEventListener('focus', () => {
+    active = true;
+  });
+
+  button.addEventListener('click', () => {
+    active = true;
+    button.focus();
+  });
+
+  // Fixes “stuck active” issue
+  button.addEventListener('blur', () => {
+    active = false;
+  });
+
+  // Allow Keyboard when button is focused
+  button.addEventListener('keydown', function(e) {
+
+    if (!active || !apiRef) return;
+
+    if (e.key === 'Escape') {
+      active = false;
+      button.blur();
+      return;
+    }
+
+    e.preventDefault();
+    updateCamera(e);
+  });
+}
+
+createViewer('modelsample1', 'btn-1', '370135d0aba44ec38c87c827123db334');
+createViewer('modelsample2', 'btn-2', '65709a84e3944a5bbacd19057ca55d5f');
+createViewer('modelsample3', 'btn-3', 'dbe54d200c7f45df837ce0b78b8860bf');
+createViewer('modelsample4', 'btn-4', '63ecacc4aa794f13aa281cf43e8a71f3');
+createViewer('modelsamplea', 'btn-a', '344dd33d2e8242e0a4717a571ec59b18');
+createViewer('modelsampleb', 'btn-b', 'baecc27f1eb245b89fbcbd3829006c9c');
+createViewer('modelsamplec', 'btn-c', '39857764278746049e60bd9238ed3891');
+createViewer('modelsampled', 'btn-d', 'fe71e05bff274beb94af62035e47ced2');
+createViewer('modelsamplee', 'btn-e', 'aea85a461ca2414489bd0b04a4df3bdc');
+createViewer('modelsamplef', 'btn-f', '80464256a4a846e3965a036e2e10dcd3');
+createViewer('modelsampleg', 'btn-g', 'e6e65f48dd34464299d3ad8081af06ce');
+</script>
+```
