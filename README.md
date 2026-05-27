@@ -12,7 +12,7 @@ There are two main folders within this repository that you will interact with; t
 
 ### docs
 
-This will contain the files intended for you to read. This will contain individual files for example lab activities, as well as the comprehensive guide that explains the process and justifications for these labs. These will predominantly be in the HTML format. While most aspects will work fine opening the folder directly, YouTube has additional security requirements for embedding. If you wish to see a live version of the files, please click the corresponding link below.
+This will contain the files intended for you to read, though contains additionally folders that provide formatting. This will contain individual files for example lab activities, as well as the comprehensive guide that explains the process and justifications for these labs. These will predominantly be in the HTML format. While most aspects will work fine opening the folder directly, YouTube has additional security requirements for embedding and thus does not work without a live render of the HTML. If you wish to see a live version of the files, please click the corresponding link below.
 
 [Guidebook](https://lechatdelanuit.github.io/Developing-Virtual-Field-Trips/Guidebook.html)
 
@@ -34,7 +34,8 @@ This will contain the files intended for you to read. This will contain individu
 This folder will contain the code used to develop each of the HTML files in the documents folder. The code is contained in Quarto (*.qmd) documents and can easily be used in RStudio or similar programs.
 
 > Important!
-> For most users: open files in the "docs" folder.
+> For most users: Open links above to navigate to specific files.
+> For people who want something downloaded to their device, use the files in the "docs" folder.
 > The "source" folder contains editable Quarto project files intended for instructors or developers who wish to modify the materials.
 
 ## The Other Files
@@ -53,4 +54,4 @@ This file is actually what you are reading right now!
 
 ## Anything else?
 
-I'm truly quite passionate about this sort of stuff, so if you have any questions or ideas, please don't hesitate to reach out to me at thomswab@email.sc.edu
+I'm truly quite passionate about this sort of stuff, so if you have any questions or ideas, please don't hesitate to reach out to me at thomswab@email.sc.edu and I'll get back to you when I can. I do plan on continuing to update things here (such as reworking the file organization later), so any ideas are good ones!
