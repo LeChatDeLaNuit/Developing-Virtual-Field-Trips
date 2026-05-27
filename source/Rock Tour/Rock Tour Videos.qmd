@@ -310,7 +310,7 @@ An introduction video is provided here to help set you up for success. Before yo
 
 <figure class="skfb-block">
 
-<iframe class="skfb-frame" src="https://www.youtube.com/embed/hRxPFs6lGqU" title="YouTube video player for Rice Law School frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="skfb-frame" src="https://www.youtube.com/embed/hRxPFs6lGqU" title="YouTube video player for Rice Law School" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <img src="https://i.imgur.com/fHoHt0N.jpeg" alt="The rock used as the sides of the steps at the Rice Law School. Alternating bands of dark and light material are visible throughout. There appears to be some up-and-down motion for these alternating layers. The lighter-colored material is a light pink to beige, while the dark material is grey to black." class="skfb-img">
 
