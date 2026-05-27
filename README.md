@@ -12,7 +12,17 @@ There are two main folders within this repository that you will interact with; t
 
 ### docs
 
-This will contain the files intended for you to read. This will contain individual files for example lab activities, as well as the comprehensive guide that explains the process and justifications for these labs. These will predominantly be in the HTML format, and should open in the default browser of your choice.
+This will contain the files intended for you to read. This will contain individual files for example lab activities, as well as the comprehensive guide that explains the process and justifications for these labs. These will predominantly be in the HTML format. While most aspects will work fine opening the folder directly, YouTube has additional security requirements for embedding. If you wish to see a live version of the files, please click the corresponding link below.
+
+[Guidebook](https://lechatdelanuit.github.io/Developing-Virtual-Field-Trips/Guidebook.html){target="_blank"}
+
+[Metamorphic Rocks: Prelab](https://lechatdelanuit.github.io/Developing-Virtual-Field-Trips/Metamorphic%20Rocks%20Files/Metamorphics%20Prelab%20Reading.pdf){target="_blank"}
+[Metamorphic Rocks: Rock Identification](https://lechatdelanuit.github.io/Developing-Virtual-Field-Trips/Metamorphic%20Rocks%20Files/Metamorphics%20ID%20and%20Review.html){target="_blank"}
+[Metamorphic Rocks: Rock Tour](https://lechatdelanuit.github.io/Developing-Virtual-Field-Trips/Metamorphic%20Rocks%20Files/Rock%20Tour%20Videos.html){target="_blank"}
+
+[Streams Lab: Prelab](https://lechatdelanuit.github.io/Developing-Virtual-Field-Trips/Streams%20Lab%20Files/Streams%20Prelab%20Reading.pdf){target="_blank"}
+[Streams Lab: Activity](https://lechatdelanuit.github.io/Developing-Virtual-Field-Trips/Streams%20Lab%20Files/Streams%20Lab.html){target="_blank"}
+
 
 ### source
 
