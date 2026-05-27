@@ -17,16 +17,16 @@ This will contain the files intended for you to read. This will contain individu
 [Guidebook](https://lechatdelanuit.github.io/Developing-Virtual-Field-Trips/Guidebook.html)
 
 
-[Metamorphic Rocks: Prelab](https://lechatdelanuit.github.io/Developing-Virtual-Field-Trips/Metamorphic%20Rocks%20Files/Metamorphics%20Prelab%20Reading.pdf)
+[Metamorphic Rocks: Prelab](https://lechatdelanuit.github.io/Developing-Virtual-Field-Trips/Metamorphics%20Prelab%20Reading.pdf)
 
 [Metamorphic Rocks: Rock Identification](https://lechatdelanuit.github.io/Developing-Virtual-Field-Trips/Metamorphics%20Lab%20ID%20and%20Review.html)
 
-[Metamorphic Rocks: Rock Tour](https://lechatdelanuit.github.io/Developing-Virtual-Field-Trips/Metamorphic%20Rocks%20Files/Rock%20Tour%20Videos.html)
+[Metamorphic Rocks: Rock Tour](https://lechatdelanuit.github.io/Developing-Virtual-Field-Trips/Rock%20Tour%20Videos.html)
 
 
-[Streams Lab: Prelab](https://lechatdelanuit.github.io/Developing-Virtual-Field-Trips/Streams%20Lab%20Files/Streams%20Prelab%20Reading.pdf)
+[Streams Lab: Prelab](https://lechatdelanuit.github.io/Developing-Virtual-Field-Trips/Streams%20Prelab%20Reading.pdf)
 
-[Streams Lab: Activity](https://lechatdelanuit.github.io/Developing-Virtual-Field-Trips/Streams%20Lab%20Files/Streams%20Lab.html)
+[Streams Lab: Activity](https://lechatdelanuit.github.io/Developing-Virtual-Field-Trips/Streams%20Lab.html)
 
 
 ### source

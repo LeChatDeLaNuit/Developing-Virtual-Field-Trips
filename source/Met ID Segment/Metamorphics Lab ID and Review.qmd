@@ -6,6 +6,36 @@ format: html
 
 ```{=html}
 <script src="https://static.sketchfab.com/api/sketchfab-viewer-1.12.1.js"></script>
+
+<style>
+.skfb-block {
+  margin-bottom: 4rem;
+}
+
+/* image formating*/
+.skfb-img {
+  width: 50vmin;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* button formating*/
+.skfb-btn {
+  display: block;
+  margin: 0.75rem auto 1rem auto; /* includes spacing under button */
+  text-align: center;
+}
+
+.skfb-frame {
+  width: 70%;
+  aspect-ratio: 4 / 3;
+  display: block;
+  margin: 0 auto;   
+  border: none;
+}
+</style>
+
 ```
 
 </div>
@@ -40,44 +70,54 @@ Provided are 4 pictures of metamorphic rocks, as well as corresponding 3D Models
 
 ##### Sample 1
 
-<img src="https://i.imgur.com/5AFVRDP.jpeg" alt="A light cream-colored rock with medium to large crystals visible." style="width:50vmin;height:auto;">
+<figure class="skfb-block">
 
-<div> 
+
+<img src="https://i.imgur.com/5AFVRDP.jpeg" alt="A light cream-colored rock with medium to large crystals visible." class="skfb-img">
+
 <button class="skfb-btn" id="btn-1" tabindex="0" aria-label="Button to activate keyboard controls for Sample 1 Model. To exit control, press Escape."> Activate Sample 1 Model Keyboard Controls </button>
-<iframe title="Sample 1 Model. For static image, see above." id="modelsample1" width="100%" height="500" allowfullscreen></iframe>
-</div>
+
+<iframe class="skfb-frame" title="Sample 1 Model. For static image, see above." id="modelsample1" allowfullscreen></iframe>
+
+</figure>
 
 ##### Sample 2
 
-<img src="https://i.imgur.com/H8BG8Dv.jpeg" alt="A brownish-beige colored rock with medium crystals visible." style="width:50vmin;height:auto;">
+<figure class="skfb-block">
 
-<div> 
+<img src="https://i.imgur.com/H8BG8Dv.jpeg" alt="A brownish-beige colored rock with medium crystals visible." class="skfb-img">
+
 <button class="skfb-btn" id="btn-2" tabindex="0" aria-label="Button to activate keyboard controls for Sample 2 Model. To exit control, press Escape."> Activate Sample 2 Model Keyboard Controls </button>
 
-<iframe title="Sample 2 Model. For static image, see above." id="modelsample2" width="100%" height="500" allowfullscreen> </iframe>
-</div>
+<iframe title="Sample 2 Model. For static image, see above." id="modelsample2" class="skfb-frame" allowfullscreen> </iframe>
+</figure>
 
 ##### Sample 3
 
+<figure class="skfb-block">
 
-<img src="https://i.imgur.com/dKZZ3mi.jpeg" alt="A black rock with many layers of a dark colored mineral stacked on top of one another." style="width:50vmin;height:auto;">
+<img src="https://i.imgur.com/dKZZ3mi.jpeg" alt="A black rock with many layers of a dark colored mineral stacked on top of one another." class="skfb-img">
 
-<div> 
 
 <button class="skfb-btn" id="btn-3" tabindex="0" aria-label="Button to activate keyboard controls for Sample 3 Model. To exit control, press Escape."> Activate Sample 3 Model Keyboard Controls </button>
 
-<iframe title="Sample 3 Model. For static image, see above." id="modelsample3" width="100%" height="500" allowfullscreen> </iframe>
-</div>
+<iframe title="Sample 3 Model. For static image, see above." id="modelsample3" class="skfb-frame" allowfullscreen> </iframe>
+</figure>
+
+</br>
+</br>
 
 ##### Sample 4
 
-<img src="https://i.imgur.com/vtegM07.jpeg" alt="A rock with alternating bands of light-pink and black minerals." style="width:50vmin;height:auto;">
+<figure class="skfb-block">
 
-<div> 
+<img src="https://i.imgur.com/vtegM07.jpeg" alt="A rock with alternating bands of light-pink and black minerals." class="skfb-img">
+
 <button class="skfb-btn" id="btn-4" tabindex="0" aria-label="Button to activate keyboard controls for Sample 4 Model. To exit control, press Escape."> Activate Sample 4 Model Keyboard Controls </button>
 
-<iframe title="Sample 4 Model. For static image, see above." id="modelsample4" width="100%" height="500" allowfullscreen> </iframe>
-</div>
+<iframe title="Sample 4 Model. For static image, see above." id="modelsample4" class="skfb-frame" allowfullscreen> </iframe>
+</figure>
+
 
 ##### 1. What criteria or properties did you use to "categorize" these rocks?
 
@@ -139,13 +179,15 @@ Each sample is presented in the following manner:
 
 ##### Sample A
 
-<img src="https://i.imgur.com/IZISmef.jpeg" alt="A hand sample of a very dark black colored sample with a highly reflective sheen; almost glassy. Appears to be consistent in color throughout the entirety of the sample." style="width:50vmin;height:auto;">
+<figure class="skfb-block">
 
-<div> 
+<img src="https://i.imgur.com/IZISmef.jpeg" alt="A hand sample of a very dark black colored sample with a highly reflective sheen; almost glassy. Appears to be consistent in color throughout the entirety of the sample." class="skfb-img">
+
+
 <button class="skfb-btn" id="btn-a" tabindex="0" aria-label="Button to activate keyboard controls for Sample A Model. To exit control, press Escape."> Activate Sample A Model Keyboard Controls </button>
 
-<iframe title="Sample A Model. For static image, see above." id="modelsamplea" width="100%" height="500" allowfullscreen> </iframe>
-</div>
+<iframe title="Sample A Model. For static image, see above." id="modelsamplea" class="skfb-frame" allowfullscreen> </iframe>
+</figure>
 
 
 
@@ -167,14 +209,15 @@ Each sample is presented in the following manner:
 
 ##### Sample B
 
-<img src="https://i.imgur.com/ycO1kko.jpeg" alt="A hand sample of a light-pink and black rock. The colors appear to be in alternating layers." style="width:50vmin;height:auto;">
+<figure class="skfb-block">
 
-<div> 
+<img src="https://i.imgur.com/ycO1kko.jpeg" alt="A hand sample of a light-pink and black rock. The colors appear to be in alternating layers." class="skfb-img">
+
+
 <button class="skfb-btn" id="btn-b" tabindex="0" aria-label="Button to activate keyboard controls for Sample B Model. To exit control, press Escape."> Activate Sample B Model Keyboard Controls </button>
 
-<iframe title="Sample B Model. For static image, see above." id="modelsampleb" width="100%" height="500" allowfullscreen> </iframe>
-</div>
-
+<iframe title="Sample B Model. For static image, see above." id="modelsampleb" class="skfb-frame" allowfullscreen> </iframe>
+</figure>
 <details>
     <summary> Additional Info (Sample B) </summary>
 
@@ -192,13 +235,15 @@ Each sample is presented in the following manner:
 
 ##### Sample C
 
-<img src="https://i.imgur.com/SWKsscO.jpeg" alt="A hand sample of a dark-grey rock. Within the sample, individual crystals are too small to easily make out. From a side view, thin layers are visible along the surface where the sample broke. " style="width:50vmin;height:auto;">
+<figure class="skfb-block">
 
-<div> 
+<img src="https://i.imgur.com/SWKsscO.jpeg" alt="A hand sample of a dark-grey rock. Within the sample, individual crystals are too small to easily make out. From a side view, thin layers are visible along the surface where the sample broke. " class="skfb-img">
+
+
 <button class="skfb-btn" id="btn-c" tabindex="0" aria-label="Button to activate keyboard controls for Sample C Model. To exit control, press Escape."> Activate Sample C Model Keyboard Controls </button>
 
-<iframe title="Sample C Model. For static image, see above." id="modelsamplec" width="100%" height="500" allowfullscreen> </iframe>
-</div>
+<iframe title="Sample C Model. For static image, see above." id="modelsamplec" class="skfb-frame" allowfullscreen> </iframe>
+</figure>
 
 <details>
     <summary> Additional Info (Sample C) </summary>
@@ -217,13 +262,15 @@ Each sample is presented in the following manner:
 
 ##### Sample D
 
-<img src="https://i.imgur.com/dvMFfwE.jpeg" alt="A hand sample of a light beige to white rock. Crystals can be made out and vary in size, but are almost all the same color and slightly transparent like glass. There does not appear to be a distinct layering or order to the crystals." style="width:50vmin;height:auto;">
+<figure class="skfb-block">
 
-<div> 
+<img src="https://i.imgur.com/dvMFfwE.jpeg" alt="A hand sample of a light beige to white rock. Crystals can be made out and vary in size, but are almost all the same color and slightly transparent like glass. There does not appear to be a distinct layering or order to the crystals." class="skfb-img">
+
+
 <button class="skfb-btn" id="btn-d" tabindex="0" aria-label="Button to activate keyboard controls for Sample D Model. To exit control, press Escape."> Activate Sample D Model Keyboard Controls </button>
 
-<iframe title="Sample D Model. For static image, see above." id="modelsampled" width="100%" height="500" allowfullscreen> </iframe>
-</div>
+<iframe title="Sample D Model. For static image, see above." id="modelsampled" class="skfb-frame" allowfullscreen> </iframe>
+</figure>
 
 
 <details>
@@ -243,13 +290,15 @@ Each sample is presented in the following manner:
 
 ##### Sample E
 
-<img src="https://i.imgur.com/ZUZaimq.jpeg" alt="Two hand-samples of varieties of this rock. In both, there are large, flaky crystals at the outermost surfaces. In the sample on the left, these crystals are black in color; on the right, they are instead a light gold in color. From the side, distinct layers can be seen." style="width:50vmin;height:auto;">
+<figure class="skfb-block">
 
-<div> 
+<img src="https://i.imgur.com/ZUZaimq.jpeg" alt="Two hand-samples of varieties of this rock. In both, there are large, flaky crystals at the outermost surfaces. In the sample on the left, these crystals are black in color; on the right, they are instead a light gold in color. From the side, distinct layers can be seen." class="skfb-img">
+
+
 <button class="skfb-btn" id="btn-e" tabindex="0" aria-label="Button to activate keyboard controls for Sample E Model. To exit control, press Escape."> Activate Sample E Model Keyboard Controls </button>
 
-<iframe title="Sample E Model. For static image, see above." id="modelsamplee" width="100%" height="500" allowfullscreen> </iframe>
-</div>
+<iframe title="Sample E Model. For static image, see above." id="modelsamplee" class="skfb-frame" allowfullscreen> </iframe>
+</figure>
 
 <details>
     <summary> Additional Info (Sample E) </summary>
@@ -268,13 +317,14 @@ Each sample is presented in the following manner:
 
 ##### Sample F
 
-<img src="https://i.imgur.com/AJj9Pby.jpeg" alt="A greyish-brown rock that has some pitting present. Any crystals present are translucent, but do not appear to have any layers." style="width:50vmin;height:auto;">
+<figure class="skfb-block">
 
-<div> 
+<img src="https://i.imgur.com/AJj9Pby.jpeg" alt="A greyish-brown rock that has some pitting present. Any crystals present are translucent, but do not appear to have any layers." class="skfb-img">
+
 <button class="skfb-btn" id="btn-f" tabindex="0" aria-label="Button to activate keyboard controls for Sample F Model. To exit control, press Escape."> Activate Sample F Model Keyboard Controls </button>
 
-<iframe title="Sample F Model. For static image, see above." id="modelsamplef" width="100%" height="500" allowfullscreen> </iframe>
-</div>
+<iframe title="Sample F Model. For static image, see above." id="modelsamplef" class="skfb-frame" allowfullscreen> </iframe>
+</figure>
 
 <details>
     <summary> Additional Info (Sample F) </summary>
@@ -293,13 +343,14 @@ Each sample is presented in the following manner:
 
 ##### Sample G
 
-<img src="https://i.imgur.com/xAu3FZV.jpeg" alt="A dark grey-green rock with distinct layers visible from the side. From the top surface, slight wavy patterns can be seen, as can a reflective sheen." style="width:50vmin;height:auto;">
+<figure class="skfb-block">
 
-<div> 
+<img src="https://i.imgur.com/xAu3FZV.jpeg" alt="A dark grey-green rock with distinct layers visible from the side. From the top surface, slight wavy patterns can be seen, as can a reflective sheen." class="skfb-img">
+
 <button class="skfb-btn" id="btn-g" tabindex="0" aria-label="Button to activate keyboard controls for Sample G Model. To exit control, press Escape."> Activate Sample G Model Keyboard Controls </button>
 
-<iframe title="Sample G Model. For static image, see above." id="modelsampleg" width="100%" height="500" allowfullscreen> </iframe>
-</div>
+<iframe title="Sample G Model. For static image, see above." id="modelsampleg" class="skfb-frame" allowfullscreen> </iframe>
+</figure>
 
 <details>
     <summary> Additional Info (Sample G) </summary>
