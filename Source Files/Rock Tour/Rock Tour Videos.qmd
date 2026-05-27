@@ -1,0 +1,240 @@
+---
+title: ""
+format: html
+---
+
+# Rock Tour Videos
+
+## Introduction
+
+Throughout the following sections, watch the provided video to gain some context for the sample(s) you will look at. After this, you will need to answer the questions asked in each section and write the answer in the corresponding spot in your lab manual.
+
+Each section will contain, in order:
+
+1. A video explaining the location of the samples, any relevant background information, and asking any questions you will need to answer.
+2. One or more static images of the rock in the video, with alternative text provided.
+3. A 3D model of a rock of similar composition and/or features, if available.
+4. Any additional information that may be useful for the identification of the rock sample.
+
+Once you have finished this portion of the lab, please provide feedback through [this Google Form](https://forms.gle/PZm9bUVXUCvTupY56){target="_blank"} so we can improve the virtual lab as needed in the future.
+
+An introduction video is provided here to help set you up for success. Before you begin watching, please make sure that you are in a comfortable, distraction free environment. You should have access to your lab manual and something to write with. Headphones may be beneficial to those using public spaces, such as the Thomas Cooper Library.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XNAyWQxXSmw" title="YouTube video player for Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Special thanks to Scott Brande (University of Alabama at Birmingham), The University of Queensland, and Hardscape Landscaping for providing access to these 3D models.*
+
+## Locations
+### Location 1: Jones Front Entrance
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AkhmvfMKYF4" title="YouTube video player for Jones Entrance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img src="https://i.imgur.com/KbJtCYG.jpeg" alt="A variety of pebbles embedded in the wall at the entrance to Jones. The pebbles have a variety of compositions. The white pebbles tend to have rougher, more jagged surfaces than the majority of other pebbles present." style="width:50vmin;height:auto;">
+
+#### 1. How would you describe the rounding of these pebbles/cobbles?
+</br>
+</br>
+</br>
+
+#### 2. Using your answer from question 1, does this indicate that they were transported far from their source or stayed close to their source?
+</br>
+</br>
+</br>
+
+#### 3. Which size (pebble or cobble) would require the most energy to move downstream?
+</br>
+</br>
+</br>
+
+---
+
+### Location 2A: Thomas Cooper Stairs
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9H8-5aOYgRk" title="YouTube video player for Thomas Cooper Stairs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img src="https://i.imgur.com/rUrNgro.jpeg" alt="A block of sandstone used in the stairs and path leading up to Thomas Cooper Library. This block showcases a wavy pattern that can be felt by rubbing a hand along the upper surface. These waves, although shallow, have a slight up-and-down sequence to them." style="width:50vmin;height:auto;">
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Thomas Coopers Stairs Rock Equivalent Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/6c9b225c196d4b44b523efbf17022a88/embed?ui_infos=0"> </iframe> </div>
+
+
+#### 4. What structures can be seen in the sandstone steps?
+</br>
+</br>
+</br>
+
+#### 5. What does this indicate about the type of environment the sandstone was originally formed in?
+</br>
+</br>
+</br>
+
+---
+
+### Location 2B: Thomas Cooper Proper
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c6pYs9_7zDQ" title="YouTube video player for Thomas Cooper Library" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img src="https://i.imgur.com/Tsr7qOf.jpeg" alt="Location 2B Image 1 of 2. A block of marble used in one of the pillars on the outside of Thomas Cooper Library. This block has incredibly smooth surfaces, causing a slightly glossy sheen to form. While the marble is mostly white, some grey veins are present throughout. The roof of the library overhangs beyond this pillar by several feet." style="width:50vmin;height:auto;">
+
+<img src="https://i.imgur.com/oMNjXMw.jpeg" alt="Location 2B Image 2 of 2. A block of marble used as an uncovered flowerbed a few feet away from the prior spot. This block has slightly rougher surfaces, causing a satin matte appearance and feeling. Running a hand along the rock allows one to feel the damage present, especially on the topmost surfaces. As the marble used for the flowerbed and pillars are the same material, compositionally they are identical." style="width:50vmin;height:auto;">
+
+
+
+#### 6. How does marble form?
+</br>
+</br>
+</br>
+
+#### 7. Why is marble often used instead of limestone or sandstone?
+</br>
+</br>
+</br>
+
+#### 8. What problem can occur when marble is exposed to weather outside?
+</br>
+</br>
+</br>
+
+---
+
+### Location 3: Omicron Delta Kappa Sundial Garden
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QXzd-OGP-Qc" title="YouTube video player for Omicron Delta Kappa Sundial Garden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img src="https://i.imgur.com/QtuO5gm.jpeg" alt="Location 3 Image 1 of 2. A block of pink rock sits as a base to a copper sundial. Looking closely at the rock shows a variety of crystals about 5mm across. A variety of colors are present, with opaque pink being the most common, followed by whitish-grey crystals that are somewhat transparent, followed by some small dark speckles." style="width:50vmin;height:auto;">
+
+<img src="https://i.imgur.com/1FRHrH3.png" alt="Location 3 Image 2 of 2. A polished face of a bench near the sundial. Individual grains are clearly present, with most being a salmon-pink color. Many of the whitish-grey crystals are now fully transparent. Black speckles are able to easily be seen through the transparent crystals, as well as along the surface." style="width:50vmin;height:auto;">
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Sundial Rock Equivalent Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/01de2e735f8e482c99f1a95417b7ad33/embed?ui_infos=0"> </iframe> </div>
+
+#### 9. What type of rock is used for the base of the sundial and the benches?  How did you determine this?
+</br>
+</br>
+</br>
+
+#### 10. What minerals can you identify?
+</br>
+</br>
+</br>
+
+#### 11. What advantages does this rock have over marble in terms of building materials?
+</br>
+</br>
+</br>
+
+---
+
+### Location 4: USC Desegregation Monument
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mztnh7wSVEA" title="YouTube video player for USC Desegregation Monument" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img src="https://i.imgur.com/Os0nk0N.jpeg" alt="Location 4 image 1 of 2. The desegregation monument at USC. Bronze statues of the first three Black students to enroll at the University post-Reconstruction serve as the focal point. A deep, black stone with translucent crystals form the base and two pillars behind the figures." style="width:50vmin;height:auto;">
+
+<img src="https://i.imgur.com/Eu7fkhP.jpeg" alt="Location 4 Image 2 of 2. A polished pillar from the monument. Individual grains are clearly present; however, most are relatively similar in color. Much of the rock is composed of approximately 4mm blueish-grey crystals, with some dark grey to black crystals filling in the gaps. Some highly reflective crystals can be found along the surface." style="width:50vmin;height:auto;">
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Desegregation Monument Rock Equivalent Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/2d8ced8f144f4475b17b00a9fcd9a1f1/embed?ui_infos=0"> </iframe> </div>
+
+#### 12. The base is built from stone called “black granite”.  Is this granite?  Why or why not?
+</br>
+</br>
+</br>
+
+#### 13. Can you see any specific minerals in the stone? 
+</br>
+</br>
+</br>
+
+
+---
+
+### Location 5: Sumwalt
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mH09sYBTfog" title="YouTube video player for Sumwalt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img src="https://i.imgur.com/Rw2aPZZ.jpeg" alt="Slate used as a building stone on the exterior of Sumwalt. Individual layers can easily be seen and felt along the sides of the rocks." style="width:50vmin;height:auto;">
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Sumwalt Rock Equivalent Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/8479f067f5e64585b10a12493bd2b6be/embed?ui_infos=0"> </iframe> </div>
+
+#### 14. How does slate form?
+</br>
+</br>
+</br>
+
+#### 15. What structures do you see in the stones wall?
+</br>
+</br>
+</br>
+
+#### 16. Why is slate better than shale in terms of building materials?
+</br>
+</br>
+</br>
+
+
+---
+
+### Additional Practice 1: Longstreet Theatre
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zcJB6OyETb8" title="YouTube video player for Longstreet Theatre" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img src="https://i.imgur.com/sB2JEo8.jpeg" alt="A picture of Longstreet Theatre's front entrance. Grey stone with large crystals make up the stairs, with some weathering rinds present as well." style="width:50vmin;height:auto;">
+
+<img src="https://i.imgur.com/3Cb7xz1.jpeg" alt="A close up of the stone used in the steps. Although mostly grey, there are some thin black crystals present as well. All crystals appear to be at least several millimeters long. Some gold colored sheet-like minerals are also visible, but not very frequent." style="width:50vmin;height:auto;">
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Longstreet Rock Equivalent Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/298e4710804d4faba714d28c4a80ae78/embed?ui_infos=0"> </iframe> </div>
+
+
+
+#### 17. What type of rock are the stairs made out of?
+
+
+
+---
+
+### Additional Practice 2: Maxcy Monument
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FM_Freu5k-8" title="YouTube video player for Maxcy Monument" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img src="https://i.imgur.com/XmyBzf2.jpeg" alt="Bonus Location 2 Image 1 of 2. The written surface on the Maxcy Monument. The message is written in Latin, and has been weathered heavily by rain. The rock is an inlay slab of white material that appears to have a lot of water damage." style="width:50vmin;height:auto;">
+
+<img src="https://i.imgur.com/278phSw.jpeg" alt="Bonus Location 2 Image 2 of 2. The stone composing the remainder of the Maxcy Monument. This crystalline rock has pink crystals throughout, but for the most part is a white to grey color. Some veins throughout are pink in color. All crystals are approximately 3-5mm in size." style="width:50vmin;height:auto;">
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Maxcy Writing Surface Equivalent Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/370135d0aba44ec38c87c827123db334/embed?ui_infos=0"> </iframe> </div>
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Maxcy Other Rock Equivalent Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/7aa0c6791f984aabbd11afd11efae604/embed?ui_infos=0"> </iframe> </div>
+
+#### 18. What types of rock are present within the monument.
+</br>
+</br>
+</br>
+
+#### 19. Part of the monument has writing on it. What is one benefit of using this rock for this part of the monument? What is one downside?
+</br>
+</br>
+</br>
+
+
+---
+
+### Additional Practice 3: Rice Law School
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hRxPFs6lGqU" title="YouTube video player for Thomas Cooper Library" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img src="https://i.imgur.com/fHoHt0N.jpeg" alt="The rock used as the sides of the steps at the Rice Law School. Alternating bands of dark and light material are visible throughout. There appears to be some up-and-down motion for these alternating layers. The lighter-colored material is a light pink to beige, while the dark material is grey to black. " style="width:50vmin;height:auto;">
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Law School Rock Equivalent Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/9ea30b81d35c49d1bb066367002d1fac/embed?ui_infos=0"> </iframe> </div>
+
+#### 20. What rock is present?
+</br>
+</br>
+</br>
+
+#### 21. What environment would cause such a rock to form?
+</br>
+</br>
+</br>
+
+
+---
+
+### Feedback
+Now that you have finished the lab, please provide feedback through [this Google Form](https://forms.gle/PZm9bUVXUCvTupY56){target="_blank"} so we can improve the virtual lab as needed for the future. In order to get credit for this lab, you will need to show your completed lab manual pages to your IA and they will give you any additional information or steps to complete.

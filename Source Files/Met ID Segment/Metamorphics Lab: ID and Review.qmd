@@ -1,0 +1,298 @@
+---
+title: ""
+format: html
+---
+<div style="text-align: center;">
+
+# LAB 6: METAMORPHIC ROCKS & TECTONIC SETTINGS 
+
+</div>
+
+## Objectives
+When you have completed this lab, you will be able to:
+
+1. Learn how and where the common metamorphic rocks are formed
+2. Understand how rock properties provide insight into their formation and history
+3. Evaluate the properties of 8 common metamorphic rocks to determine their identity
+4. Describe different tectonic settings utilizing plate motions rock types and the relationships between them
+
+## Notes
+
+* This lab will help prepare you for the midterm exam (especially the rock tour part). Due to this, it is strongly encouraged that you attempt each section on your own and do your best.
+* You will want to take notes throughout this lab by writing in your lab manual; this allows for you to utilize your notes on your midterm.
+* There will be questions throughout that you will need to answer. These should match up with the questions in your lab manual. In order to be able to take the post lab quiz, you will need to show your completed lab manual to your IA.
+* You will want to review the pre-lab information both before and during this lab, so ensure you have the information pulled up.
+* This lab is designed to function on any device, but a computer or laptop will work the best for most. If you do not have access to one of these devices, they may be checked out from the [Thomas Cooper Library](https://sc.edu/about/offices_and_divisions/university_libraries/find_services/borrow/technology/){target="_blank"}.
+* There are a large number of embedded images, videos, and models. If you experience technology issues, refreshing the page is likely to fix them.
+
+## Lab Activities
+### Opening Activity
+
+#### Task 1
+Provided are 4 pictures of metamorphic rocks, as well as corresponding 3D Models of each. Observe the rocks. What similarities and differences do you notice? Sort them into at least two categories based on your observations.
+
+
+*Special thanks to Scott Brande (University of Alabama at Birmingham) for providing access to these 3D models.*
+
+##### Sample 1
+
+<img src="https://i.imgur.com/5AFVRDP.jpeg" alt="A light cream-colored rock with medium to large crystals visible." style="width:50vmin;height:auto;">
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Sample 1 Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/370135d0aba44ec38c87c827123db334/embed"> </iframe> </div>
+
+##### Sample 2
+
+<img src="https://i.imgur.com/H8BG8Dv.jpeg" alt="A brownish-beige colored rock with medium crystals visible." style="width:50vmin;height:auto;">
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Sample 2 Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/65709a84e3944a5bbacd19057ca55d5f/embed"> </iframe> </div>
+
+##### Sample 3
+
+<img src="https://i.imgur.com/dKZZ3mi.jpeg" alt="A black rock with many layers of a dark colored mineral stacked on top of one another." style="width:50vmin;height:auto;">
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Sample 3 Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/dbe54d200c7f45df837ce0b78b8860bf/embed"> </iframe> </div>
+
+##### Sample 4
+
+
+<img src="https://i.imgur.com/vtegM07.jpeg" alt="A rock with alternating bands of light-pink and black minerals." style="width:50vmin;height:auto;">
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Sample 4 Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/63ecacc4aa794f13aa281cf43e8a71f3/embed"> </iframe> </div>
+
+##### 1. What criteria or properties did you use to "categorize" these rocks?
+
+</br>
+</br>
+</br>
+</br>
+
+##### 2. Based on what you know about earth’s processes and metamorphic rocks, what might cause these differences in the rocks.
+
+</br>
+</br>
+</br>
+</br>
+
+#### Task 2
+
+For the second section of your opening activity, provide an example of each type of sample (for example, "Quartz" for the mineral). Then, explain a property that would help you tell whether or not a specimen would count as that kind of sample (for Quartz as a mineral, something along the lines of "Has perfectly flat sides and a crystal shape" would work well.) There will be one line left blank in the table. 
+
+### Exercise 1: Metamorphic Rock Identification
+#### Task 1
+
+In your lab manual, find the table that geologists use to identify the metamorphic rocks. The rocks are split vertically by a property called "Foliation".
+
+##### 3. Look at your rocks from the opening exercise and how you sorted them, and compare them to the table. Did you categorize them in a similar manner to geologists?
+
+</br>
+</br>
+</br>
+</br>
+
+##### 4. Metamorphic rocks have a *protolith*, or parent rock. These are the rocks that underwent metamorphism to become the rocks you see now. Of the rocks you already looked at, are there any rocks that you might be able to identify the protolith?
+
+</br>
+</br>
+</br>
+</br>
+
+
+#### Task 2:
+
+Use the chart and the following rock samples to complete the table in your lab manual. 
+
+Your table should include the name of the rock and your explanation for why you identified it as this. Your explanation could include some identifying features such as texture and color, or things like a reaction to acid or the rock's ability to scratch glass. Then tell whether the rock is foliated or non-foliated. To double check your answers, enter them into [this Google Form](https://forms.gle/TBRCX8g7KDwNxybT7){target="_blank"}.
+
+Each sample is presented in the following manner:
+
+1. A still image of a sample, with alternative text provided.
+2. An interactive 3D model through Sketchfab. You do not need to leave this document for access. If the model appears small, you are able to expand it to fullscreen. These models can be zoomed into and rotated freely.
+3. A dropdown containing additional information. Each contains a description of: 
+* The sample's appearance and any notable traits
+* The sample's density (light, dense, etc.)
+* The sample's reaction to hydrochloric acid, if any
+* The sample's ability to scratch glass.
+4. An optional hint, should you need additional identification assistance.
+
+
+*Special thanks to Scott Brande (University of Alabama at Birmingham) for providing access to these 3D models.*
+
+##### Sample A
+
+<img src="https://i.imgur.com/IZISmef.jpeg" alt="A hand sample of a very dark black colored sample with a highly reflective sheen; almost glassy. Appears to be consistent in color throughout the entirety of the sample." style="width:50vmin;height:auto;">
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Sample A Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/344dd33d2e8242e0a4717a571ec59b18/embed"> </iframe> </div>
+
+
+
+<details>
+    <summary> Additional Info (Sample A) </summary>
+
+* Appearance: Very dark black color, with a highly reflective sheen. Hard to photograph.
+* Density: Not very dense.
+* Reaction with acid: None
+* Does not scratch glass
+
+</details>
+
+<details>
+    <summary> Hint (Sample A) </summary>
+    * In one of our other rock labs, one sample was also lightweight and black in color. That rock may be related to this one.
+</details>
+
+##### Sample B
+
+<img src="https://i.imgur.com/ycO1kko.jpeg" alt="A hand sample of a light-pink and black rock. The colors appear to be in alternating layers." style="width:50vmin;height:auto;">
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Sample B Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/baecc27f1eb245b89fbcbd3829006c9c/embed"> </iframe> </div>
+
+<details>
+    <summary> Additional Info (Sample B) </summary>
+
+* Appearance: Alternating layers of light colored and dark colored minerals. Mostly white and black bands, with some pink grains throughout.
+* Density: Moderately dense.
+* Reaction with acid: None
+* Scratches glass
+
+</details>
+
+<details>
+    <summary> Hint (Sample B) </summary>
+    * There appears to be a variety of different colored bands within this sample (white, black, and some pink specks.) A rock from earlier on also had minerals matching these colors--perhaps they're related?
+</details>
+
+##### Sample C
+
+<img src="https://i.imgur.com/SWKsscO.jpeg" alt="A hand sample of a dark-grey rock. Within the sample, individual crystals are too small to easily make out. From a side view, thin layers are visible along the surface where the sample broke. " style="width:50vmin;height:auto;">
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Sample C Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/39857764278746049e60bd9238ed3891/embed"> </iframe> </div>
+
+<details>
+    <summary> Additional Info (Sample C) </summary>
+
+* Appearance: Thin, dark layers within the rock. Very fine grained crystals. Mostly flat (can see thin sheets where broken). Has a matte finish. Decent "ping" sound when struck.
+* Density: Moderately dense.
+* Reaction with acid: None
+* Does not scratch glass
+
+</details>
+
+<details>
+    <summary> Hint (Sample C) </summary>
+    * This rock is extremely similar to its protolith. There may be a sedimentary rock that matches this description.
+</details>
+
+##### Sample D
+
+<img src="https://i.imgur.com/dvMFfwE.jpeg" alt="A hand sample of a light beige to white rock. Crystals can be made out and vary in size, but are almost all the same color and slightly transparent like glass. There does not appear to be a distinct layering or order to the crystals." style="width:50vmin;height:auto;">
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Sample D Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/fe71e05bff274beb94af62035e47ced2/embed"> </iframe> </div>
+
+<details>
+    <summary> Additional Info (Sample D) </summary>
+
+* Appearance: Medium to large crystals, with no distinct layering. Somewhat clear crystals; mostly all one color.
+* Density: Moderately dense.
+* Reaction with acid: None
+* Scratches glass
+
+</details>
+
+<details>
+    <summary> Hint (Sample D) </summary>
+    * With no distinct layers, this rock must be nonfoliated. The other information should help narrow it down to one ID.
+</details>
+
+##### Sample E
+
+<img src="https://i.imgur.com/ZUZaimq.jpeg" alt="Two hand-samples of varieties of this rock. In both, there are large, flaky crystals at the outermost surfaces. In the sample on the left, these crystals are black in color; on the right, they are instead a light gold in color. From the side, distinct layers can be seen." style="width:50vmin;height:auto;">
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Sample E Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/aea85a461ca2414489bd0b04a4df3bdc/embed"> </iframe> </div>
+
+<details>
+    <summary> Additional Info (Sample E) </summary>
+
+* Appearance: Layering present within the rock, with flat crystals present at outermost surfaces. Pieces and flakes of biotite form glitter-like scales.
+* Density: Moderately dense.
+* Reaction with acid: None
+* Does not scratch glass
+
+</details>
+
+<details>
+    <summary> Hint (Sample E) </summary>
+    * Biotite is part of the mica family of minerals.
+</details>
+
+##### Sample F
+
+<img src="https://i.imgur.com/AJj9Pby.jpeg" alt="A greyish-brown rock that has some pitting present. Any crystals present are translucent, but do not appear to have any layers." style="width:50vmin;height:auto;">
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Sample F Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/80464256a4a846e3965a036e2e10dcd3/embed"> </iframe> </div>
+
+<details>
+    <summary> Additional Info (Sample F) </summary>
+
+* Appearance: Dark grey, translucent crystals. No visible layers. 
+* Density: Moderately dense.
+* Reaction with acid: Vigorous reaction with many bubbles.
+* Does not scratch glass
+
+</details>
+
+<details>
+    <summary> Hint (Sample F) </summary>
+    * Both the protolith of this rock and its primary mineral also react with hydrochloric acid.
+</details>
+
+##### Sample G
+
+<img src="https://i.imgur.com/xAu3FZV.jpeg" alt="A dark grey-green rock with distinct layers visible from the side. From the top surface, slight wavy patterns can be seen, as can a reflective sheen." style="width:50vmin;height:auto;">
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Sample G Model. For static image, see above." frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/e6e65f48dd34464299d3ad8081af06ce/embed"> </iframe> </div>
+
+<details>
+    <summary> Additional Info (Sample G) </summary>
+
+* Appearance: Thin layers within the rock. Slight grey-green color. Undulating surface with a shiny appearance, similar to graphite.
+* Density: Moderately dense.
+* Reaction with acid: None
+* Does not scratch glass
+
+</details>
+
+<details>
+    <summary> Hint (Sample G) </summary>
+    * This rock has undergone enough metamorphism for minerals to start realigning, but not enough for them to form large crystals.
+</details>
+
+#### Double Check
+To double check your answers, enter them into [this Google Form](https://forms.gle/TBRCX8g7KDwNxybT7){target="_blank"}.
+
+### Exercise 2: Rock Cycle and ID Techniques Review
+
+Now that you have finished identifying metamorphic rocks, we will put everything together. Before we can apply that, we will review the different parts of the rock cycle and how one could tell the different types of rocks apart.
+
+#### Task 1:
+Make sure you are able to find the identification charts you would need to identify *minerals, igneous rocks, sedimentary rocks, and metamorphic rocks*. For each of these, review what any relevant vocabulary means and how any tests are conducted. For example, with igneous rocks we had several words used to describe a rock's texture and composition. Knowing what words describe these traits will help with identification.
+
+#### Task 2:
+Fill out the blank spots on the Rock Cycle on page 2 in your lab manual (including the pages numbers for your identification charts). If you need a refresher, here's an excellent video summarizing the cycle by Dr. Rachel Phillips.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hw72Zy9UdY8" title="YouTube video player for the Rock Cycle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Exercise 3: Campus Rock Tour
+
+You have several options to complete this section of the lab. Remember, in order to complete the post-lab quiz, you will need to show your filled in lab manual to your IA. 
+
++ First, you may follow one of the Rock Tour paths available on the Bloomberg Connects App. For more details on how to download and use this app, [see here](https://www.bloombergconnects.org/about/){target="_blank"}. Once you are in the app, click "University of South Carolina", scroll down to the "History Walking Tours", and flip through the tiles until you see "USC Campus Rock Tour".
+
++ Second, you may follow along with the provided videos and corresponding 3D models. These can be found in Blackboard, in a document labelled "Rock Tour Videos".
+
++ If you have an alternative method you wish to use to complete this section, please coordinate with your IA to ensure that it would meet the expectations and learning outcomes of the lab.
+
+
+Once you have finished the rock tour portion of the lab, please provide feedback through [this Google Form](https://forms.gle/PZm9bUVXUCvTupY56){target="_blank"} so we can improve the virtual lab as needed in the future.
+
+A reminder: this activity's goal is to help prepare you for the midterm as well as apply your existing knowledge. Due to that, it is highly recommended you treat these questions as if you were coming into the midterm. This means you should only utilize the materials you would have for the midterm, such as your lab manual and any notes you have within it.
+

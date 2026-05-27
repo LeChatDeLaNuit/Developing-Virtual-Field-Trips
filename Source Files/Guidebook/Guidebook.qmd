@@ -1,0 +1,449 @@
+---
+title: "Guidebook"
+format: html
+
+include-in-header:
+  text: |
+    <style>
+    .checkbox-group div {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.5rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .checkbox-group label {
+      cursor: pointer;
+    }
+
+    .sr-only {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+    }
+    </style>
+author: "Benny Thoms-Warzecha"
+---
+
+## Introduction
+This guide will assist you through the process of creating and/or converting laboratory and field trip activities to become more accessible through a virtual lens. The advice herewithin is not necessarily required to be followed, but instead provides one potential pathway. Throughout are resources and checklists to help guide you towards a more accessible lab activity.
+
+### HTML Format
+
+Note that many of the tools, artifacts, and considerations in place here are done using HTML. This is due to HTML being one of the most accessible formats to use while also providing options that work across different systems and LMSs. While HTML versions of the example labs are provided here, equivalent versions can be easily produced within systems like Blackboard Ultra. One of the biggest benefits from HTML is the ability to embed things directly into the document, such as videos that can be interacted with without the need to leave the document.
+
+This does mean that some considerations are unique to HTML file types, and others will be unique to static file types like PDF/Word Docs. Ultimately, it is the instructor's preference that will dictate many important decisions.
+
+### Example Lab Activities
+Throughout this guide, there will be two example laboratory activities from GEOL-101 to showcase some of the considerations taken at each step. The first is the metamorphic rocks lab, which includes a field trip throughout campus. The second is a stream lab, which involves data collection at Maxcy-Gregg Park. While these focus on field trips, each lab has components that would be similar to a non-field, in-person lab in other disciplines. 
+
+Labs in GEOL-101 each follow the same general structure. Prior to a lab activity, students complete a pre-lab reading, sometimes with an additional article or video to watch. Examples for each lab are included in this folder. After they finish reading and/or watching videos, they complete a pre-lab quiz via Blackboard to receive credit for their background knowledge. Once their lab section begins, an opening activity takes place, followed by a brief lecture (~5 minute) from the lab IA. Once given the OK, students complete the lab activities within their physical lab manuals. At the completion of activities, students complete a paper post-lab quiz to receive credit for completing the lab. 
+
+Students completing the digital versions of these labs are still expected to complete the pre-lab and post-lab quizzes. In order to take the post-lab quiz, they need to show their completed lab manual to their IA. The modified versions provided here match with the lab manuals as closely as possible to ensure students are prepared for the quiz.
+
+### Considerations
+There are plenty of things to consider before you begin ripping the plumbing out of your activity:
+
+* Why am I converting to a virtual experience? 
+* What are my goals for students?
+* Do I have existing feedback or experience for this particular activity?
+* Do I have the resources to be successful?
+
+These will be key to think about throughout developing or modifying your activity, but are worth considering first as they will help guide your own design process. Each will be embedded throughout the stages contained within this guidebook.
+
+## Step Zero: Background
+
+Any curriculum development is going to be most successful if you do some planning to begin with. Before even getting started with the activity, ensure you have a strong understanding of:
+
+* The content. It would be very bad if students came out of the experience with less of an understanding than they entered it with.
+
+* Your abilities when it comes to technology. If you've never recorded a video before, that would likely be a good first step to take before creating a video series.
+
+* Who your students are. This can vary from semester to semester and your class sizes. If you have taught a lab activity before and are looking to convert, you may have existing feedback to look at. You may have some accommodation information provided through the [Student Disability Resource Center](https://www.sc.edu/about/offices_and_divisions/student_disability_resource_center/index.php){target="_blank"}. Knowing who your students are is truly key to making sure they can engage with the activities.
+
+* What resources both you and/or your students have access to. Many resources are available through [Thomas Cooper Library](https://sc.edu/about/offices_and_divisions/university_libraries/find_services/borrow/technology/index.php){target="_blank"} that can be utilized from both an instructor and a student perspective; this is especially useful if students may not have computer or internet access at home. One often overlooked resource is the amount of time you have to develop materials--these things can balloon in size quite a lot.
+
+### Completion Checklist
+
+In order to be successful, you should:
+
+
+<fieldset class="checkbox-group">
+<legend class="sr-only"> Background considerations for developing a virtual experience </legend>
+
+<div> 
+  <input type="checkbox" id="bg1" name="background" value="option1"> <label for="bg1">Identify the reason for developing a virtual experience</label>
+</div>
+
+<div>
+  <input type="checkbox" id="bg2" name="background" value="option2">
+  <label for="bg2">Identify the broad concepts being taught, as well as the core sequence</label>
+</div>
+
+<div>
+  <input type="checkbox" id="bg3" name="background" value="option3">
+  <label for="bg3">Assess your own technological abilities</label>
+</div>
+
+<div>
+  <input type="checkbox" id="bg4" name="background" value="option4">
+  <label for="bg4">Understand who your students are</label>
+</div>
+
+<div>
+  <input type="checkbox" id="bg5" name="background" value="option5">
+  <label for="bg5">Identify resources available to you</label>
+</div>
+
+</fieldset>
+
+
+> NOTE:
+> We have only identified the "big picture" concepts at this point, not specifics. Within our next step we will identify the specific learning objectives.
+
+If you can confidently check each box, then you are good to move to Step One. Otherwise, two examples are provided for you below to follow along with.
+
+### Example: Metamorphic Rocks Lab
+In an introductory geology class, the overall sequence of lessons can vary significantly, but the rocks and minerals segment almost always introduces minerals, then igneous rocks, sediments, sedimentary rocks, and finally metamorphic rocks in sequence. Our labs are no different; they are, for the most part, fairly standard labs. In the mineral lab, students are tasked with identifying 16 minerals and conducting a variety of tests on hand samples. In the following igneous rocks lab, students are again tasked with identifying samples, this time being 10 rocks. This same style of activity is used for both the sedimentary rocks and metamorphic rocks labs. Much of this is visual and does not rely on moving beyond the classroom, and all physical resources are provided to students. This eventually culminates in a midterm which heavily involves identification of both rocks and minerals.
+
+Throughout recent semesters, we have been collecting student feedback and have noticed a decline in almost every measured category over the span of these 4 labs. One of the main focuses for the redevelopment of lab activities has been on increasing the relevance the activities have to student lives. This led to us developing a campus rock tour. For us, we needed to know a lot about the resources available to us. Are there rocks on campus? Is there a variety of types? 
+
+In order to learn about the potential options, we collected information via two methods. First, we tasked students to go out and find an example of a rock in a publicly accessible location in Columbia and take a picture. This allowed for us to get a lot of people looking, but was limited by the fact each student only submitted one location. Many students completed this immediately after the lab, so much of the submissions were from within one block of the Earth & Water Sciences building. We used these to create an initial tour path. 
+
+Second, I personally spent about 10 hours wandering throughout campus locating and identifying rocks. [I then placed all of these on a map](https://www.google.com/maps/d/u/0/viewer?mid=104KSNo1Z9xW_wBLE5REFDNgmrE_Cwg4&ll=33.99631964425478%2C-81.03113899999998&z=16){target="_blank"}, and additionally incorporated spots that students provided that I could not personally verify the location of.
+
+After implementing this tour and gathering additional feedback from students, we found that many students acknowledged the physical and environmental barriers present for this portion of the lab. As the campus tour requires maneuvering throughout campus, a large distance is covered, including areas that may not have easy access (the Horseshoe bricks have claimed several knees). Additionally, while there are enough Graduate Instructional Assistants to run the tours during lab, it becomes hard to find availability in case of a makeup lab or excused absence. Due to this, we needed to brainstorm ways to ensure access for all students that also minimizes the additional burden placed upon IAs. 
+
+Each semester the course instructors collect some student demographic information, and we tend to see ~5% of students who may need additional support. Of these, some of the typical accommodations we see are additional time, large print versions, having notes or lecture materials provided, or being able to utilize a laptop for notetaking.
+
+### Example: Stream Lab
+Just as with the metamorphic rocks lab, we have been collecting data on this lab for several semesters as well. Students conduct an experiment within Maxcy-Gregg park to measure the stream discharge (the volume of water moving through in a given amount of time) of Rock Branch Creek. This requires students to physically relocate down to the creek, get in the water, conduct an experiment, and then return to the classroom. In spring 2025, the lab was modified to encourage more student lead learning through having the students develop their own experiments. Most materials were provided, with the exceptions being a stopwatch, bugspray/sunscreen (unless provided by the GIA), and any clothing such as waders that may be recommended. 
+
+In past semesters, feedback for this lab has been split, with people either adoring or despising the experience. Again, we see many students identify physical and environmental barriers for this lab. This is another facet of physical and environmental barriers--while people may think of things like getting into the stream as a barrier, the discomfort of students, additional stimuli and alternative location, light and sound levels, and more could all serve as barriers to engagement as well.
+
+## Step 1: Planning
+
+During this step, we will begin the actual planning of the learning activities. It is almost always best to have a plan in place before developing any materials.
+
+### Backwards Design and Universal Design for Learning.
+
+To begin with, imagine you are designing an activity entirely from scratch to teach students about physical properties of matter. It would not make much sense to pick a handful of different activities and then hope for the best. Instead, we need to start by identifying what learning outcomes we expect of our students. From there, we ask how we can assess student knowledge on the subject, then finally design the activities to get students to that point. This framework is backwards design, also known as Understanding by Design (UbD). For a much more thorough look at UbD, a consumable workbook is available by Grant Wiggins and Jay McTighe (which is available through Thomas Cooper Library for checkout). However, such an in-depth guide is not required for the purposes of this guide. One thing that is often overlooked is the inclusion of affective learning goals ("Students will reflect on what it means to be a scientist", for example). If it's a goal, it's worth stating.
+
+Universal Design for Learning (UDL) instead focuses on ensuring that all students are able to access and participate in learning. It does so by focusing on multiple representations of engagement (the why), representation (the what), and action and expression (the how). Since July of 2024, it has been redeveloped into version 3.0, and now focuses more on student identities and positionalities. Resources for UDL are available through [CAST](https://udlguidelines.cast.org/){target="_blank"}.
+
+We are going to utilize both of these frameworks for planning our lab activities. Backwards design tends to be quite straightforward but UDL will take a lot more time and resources. Due to this, you may want to revise through several phases to ensure sustainability and reduce burnout if you have the time available. Additionally, you may want to familiarize yourself with [USC's digital accessibility toolbox](https://sc.edu/about/offices_and_divisions/digital-accessibility/toolbox/index.php){target="_blank"} to help guide you with the creation of digital resources, such as videos, documents, or other media. Blackboard has a great accessibility checker that you can use, but keep in mind it is a tool for improving accessibility, not for entirely forcing content to be accessible. All digitally distributed documents will need to meet WCAG 2.1 Level AA guidelines, which will be touched on throughout.
+
+### Completion Checklist
+
+In order to be successful, you should:
+
+<fieldset class="checkbox-group">
+<legend class="sr-only"> Planning considerations for developing a virtual experience </legend>
+<div> 
+  <input type="checkbox" id="p1" name="plan" value="option1"> <label for="p1">Identify the cognitive and affective learning objectives</label>
+</div>
+<div>
+  <input type="checkbox" id="p2" name="plan" value="option2">
+  <label for="p2">[If being developed from scratch] Assign assessment methods to each objective</label>
+</div>
+<div>
+  <input type="checkbox" id="p3" name="plan" value="option3">
+  <label for="p3">[If being developed from scratch] Assign activity to teach each objective</label>
+</div>
+<div>
+  <input type="checkbox" id="p4" name="plan" value="option4">
+  <label for="p4">[If being modified] Verify assessment methods match each objective</label>
+</div>
+<div>
+  <input type="checkbox" id="p5" name="plan" value="option5">
+  <label for="p5">[If being modified] Verify activities match/teach each objective</label>
+</div>
+</fieldset>
+
+If you can confidently check each box, then you are good to move to Step Two. Otherwise, two examples are provided for you below to follow along with.
+
+### Example: Metamorphic Rocks Lab
+
+Looking at metamorphic rocks, our explicit objectives are the following. Students will:
+
+1. Learn how and where the common metamorphic rocks are formed
+2. Understand how rock properties provide insight into their formation and history
+3. Evaluate the properties of 8 common metamorphic rocks to determine their identity
+4. Describe different tectonic settings utilizing plate motions rock types and the relationships between them
+
+Now, these are not necessarily the best learning objectives ever written, but they will serve the purposes of this guide. Additionally, some objectives may not be directly stated to the students, but are objectives and goals we keep in mind through development. These implicit objectives are:
+
+1. Compare and contrast properties of igneous, sedimentary, and metamorphic rocks
+2. Identify texture, compositions, and features for each rock type
+3. Appreciate the rocks we interact with in our everyday lives
+4. Describe the properties that lead to certain rocks being chosen for certain purposes
+5. Identify more strongly as a scientist
+6. Engage in authentic scientific learning
+
+Now, these are again not fantastic objectives. Some are difficult if even possible to measure. But that's alright--we can revise as needed now that we have them laid out. Some may be assessed over multiple labs, while some we might get rid of entirely or even put on the back burner. What we need to do now is to identify methods of assessment. At the end of each lab, a lab quiz is given, which is where much of the content questions get assessed by the lab GIA; however, some of these can be formative questions given throughout the course ("Turn to a partner and discuss X", then you can wander throughout the room and listen).
+
+For our sake, I have regrouped these objectives by the method of assessment. Unfortunately, as I am unable to provide information on the lab quizzes, I have instead provided example questions or prompts that similarly address these objectives. Now, as this is a lab we are transferring to virtual, most of these objectives already match up with an activity relatively well. Had the activity been developed from the ground up, I would spend much more time during this stage both brainstorming types of activities and assigning assessment methods. This does *not* require a fully developed plan yet, as much of the design stages comes afterwards.
+
+#### Backwards Design: Learning Objectives to activities
+##### In class questions (such as lab manual or via the tour)
++ Rock cycle review activity
+  * Learn how and where the common metamorphic rocks are formed
+  * Understand how rock properties provide insight into their formation and history
+  * Compare and contrast properties of igneous, sedimentary, and metamorphic rocks
+  * Identify texture, compositions, and features for each rock type
+  
++ Questions during the rock tour
+  * Learn how and where the common metamorphic rocks are formed
+  * Understand how rock properties provide insight into their formation and history
+  * Evaluate the properties of 8 common metamorphic rocks to determine their identity
+  * Describe different tectonic settings utilizing plate motions rock types and the relationships between them
+  * Compare and contrast properties of igneous, sedimentary, and metamorphic rocks
+  * Identify texture, compositions, and features for each rock type
+  * Describe the properties that lead to certain rocks being chosen for certain purposes
+  
++ Rock ID activity
+  * Evaluate the properties of 8 common metamorphic rocks to determine their identity
+  * Identify texture, compositions, and features for each rock type
+
+##### Lab quiz
+
+1. Evaluate the properties of 8 common metamorphic rocks to determine their identity
+  + Compare and contrast 2 samples by property
+2. Learn how and where the common metamorphic rocks are formed; Understand how rock properties provide insight into their formation and history; Describe different tectonic settings utilizing plate motions rock types and the relationships between them
+  + Provided a cross-sectional diagram, explain how this specific gneiss formed
+3. Compare and contrast properties of igneous, sedimentary, and metamorphic rocks; Describe the properties that lead to certain rocks being chosen for certain purposes
+  + What properties of sandstone make it a good/bad choice for a statue? Provide 2 of each.
+
+##### Ongoing
+1. Identify more strongly as a scientist; Engage in authentic scientific learning
+  + Weekly surveys/course surveys
+  
+##### Unmeasured
+1. Appreciate the rocks we interact with in our everyday lives
+
+So, it looks like we have one unmeasured goal. We have a few options: we could throw it out, change the goal, change an assessment, or add an assessment. It seems like a pretty important goal, so throwing it out would not be smart. We could change the goal to instead say "Appreciate the **relevance of** rocks **to our** everyday lives", which would then be assessed with the weekly surveys. We could change an assessment to now measure this (such as by modifying a question on the weekly survey or the lab quiz). Or we could add an assessment--even something as easy as an informal "Did we see some cool rocks today?" would likely do. Any of these would work fine, but now we need to design the activities to ensure that students get to that point.
+
+### Example: Stream Lab
+Looking at the stream lab, our explicit objectives are the following. Students will:
+1. Collect and interpret streamflow data
+2. Evaluate some of the factors that can cause streamflow to vary
+3. Convert between common hydrogeological units
+
+Additionally, some objectives may not be directly stated to the students, but are objectives and goals we keep in mind through development. These implicit objectives are:
+
+1. Apply the scientific method to design and conduct an experiment
+2. Identify more strongly as a scientist
+3. Engage in authentic scientific learning
+
+Because there are fewer objectives, it is much easier to directly connect activities to each without worrying about timing restrictions. We can assess much of these directly on their post-lab quiz (convert between units) and weekly surveys (engagement with authentic scientific learning). The most difficult of these to assess is the ability for students to design and conduct an experiment, as it may be impossible to fully predict what all students will do. Additionally, this objective is only completed during the activity and will not be assessed outside of it. I am again unable to provide information on the lab quizzes, and have instead provided example questions or prompts that similarly address these objectives
+
+#### Backwards Design: Learning Objectives to activities
+##### In class questions (such as lab manual or during the experiment)
++ Opening Activity
+  * Evaluate some of the factors that can cause streamflow to vary
+  * Apply the scientific method to design and conduct an experiment
+
++ Experiment & Analysis
+  * Collect and interpret streamflow data
+  * Evaluate some of the factors that can cause streamflow to vary
+  * Convert between common hydrogeological units
+  * Apply the scientific method to design and conduct an experiment
+
+##### Lab quiz
+
++ Collect and interpret streamflow data; convert between common hydrogeological units
+  + Provided a cross sectional area of 1 square meter and a velocity of 0.5 meters per second, calculate the stream discharge.
++ Evaluate some of the factors that can cause streamflow to vary
+  + For each of the following, identify if it would increase, decrease, or cause no change to discharge.
+
+##### Ongoing
++ Identify more strongly as a scientist; Engage in authentic scientific learning
+  + Weekly surveys/course surveys
+  
+## Step 2: Designing & Developing
+
+Designing the activities comes after a plan. This is where we start needing to also "reality check" each part of the design. For example, if we were utilizing software with a $500 per student license just for this activity, we would likely want to find an alternative. We are also able to, if planned well enough, design multiple options for students to complete, as will be shown in one of the examples below.
+
+One of the difficulties that arises during design is ensuring WCAG guidelines are being met. This will typically depend on the types of resources you are using within your document, as well as the document itself. We will look at some of the most common resource types in this document, but others exist too. Both [USC's digital accessibility toolbox](https://sc.edu/about/offices_and_divisions/digital-accessibility/toolbox/index.php){target="_blank"} as well as [W3's Techniques library](https://www.w3.org/WAI/WCAG21/Techniques/){target="_blank"} can provide you with supports to make your document more accessible, with specific sections on each type of resource. If you haven't already looked through the guidelines, I also like the [ADA Book's Video WCAG 2.1 Checklist](https://www.youtube.com/watch?v=uaEgknyA5BY){target="_blank"} as it provides additional context for each requirement.
+
+> Remember, we are required to meet Level AA standards. This includes all requirements from Level A in addition to the ones specifically listed as Level AA.
+
+### Completion Checklist
+
+In order to be successful, you should:
+
+<fieldset class="checkbox-group">
+<legend class="sr-only"> Design considerations for developing a virtual experience </legend>
+<div> 
+  <input type="checkbox" id="d1" name="design" value="option1"> <label for="d1"> Identify the core components and activities students will complete </label>
+</div>
+<div>
+  <input type="checkbox" id="d2" name="design" value="option2">
+  <label for="d2"> Predict and attempt to address barriers preventing student success or engagement </label>
+</div>
+<div>
+  <input type="checkbox" id="d3" name="design" value="option3">
+  <label for="d3"> Identify the resource types you will utilize for each activity, as well as accessibility concerns for each.
+</label>
+
+</div>
+
+>This includes determining if you will utilize existing materials or create your own, and the processes behind each. 
+
+</fieldset>
+
+If you can confidently check each box, then you are good to move to Step Three. Otherwise, two examples are provided for you below to follow along with.
+
+> Important!
+> Keep in mind that using automated accessibility checkers only check the document provided, and not embedded content; hence, it is also imperative that you thoroughly check any utilized resources for this.
+
+### Example: Metamorphic Rocks Lab
+The metamorphic rocks lab has four main components: an opening activity, a rock identification segment, a rock cycle review, and then a campus rock tour. The opening activity and rock ID segment are fairly similar, and will be grouped together for this portion.
+
+#### Rock ID
+This portion of the lab is relatively straightforward. Students need to look at samples and identify them using the ID tables that will be provided to them; however, it is also important that students can identify the rocks as best meets their needs. To begin with, we have an opening activity to start having students think about the ways we can categorize metamorphic rocks, which mirrors the opening activities from prior labs. In order to maintain this same style in a virtual setting, students will need to be able to visually analyze hand samples. The use of 3D models can be beneficial so students are able to manipulate the samples, but still images will also be provided with alternative text to ensure that screen readers are able to be successful. The introductory portion of the rock ID portion allows students to then also reflect on their own methods for identifying metamorphic rocks before moving on to identifying them using the provided table. 
+
+##### Images
+The first consideration is images. Images have a variety of different purposes, namely being decorative, functional, or informative
+
++ Decorative images are purely adding decoration to the document and do not provide additional information or purpose. These are really common on lower-elementary worksheets, but are best avoided when possible.
+
++ Functional images are ones that actually do things, such as being a link to an Instagram page or printing. Although uncommon, you may end up utilizing these.
+
++ Informative images are images that provide information to the reader and are likely the bulk of what would be included in a document. This includes things like graphs, artwork for analysis, and for the purposes of this activity, rock samples. These are going to be the images you are including for the specific sake of providing information of some kind.
+
+Images require alternative text, which can be difficult to write if you are not used to it. They primarily are read aloud by screen readers to provide visual information in a non-visual format. If an image is decorative, the alt text should be *null*. This means that you are still assigning alt text, just that the alt text does not contain information (e.g., alt=""). Functional images should have alt text that describes their function (e.g., alt="Print this page"). Informative images need alt text that describes the visual information being provided, and is the main type of alt text you will be writing. 
+
+One of the biggest struggles is keeping descriptions concise; a good guideline is about 140 characters or less for a simple image. Anything further than this should either be necessary or reduced down. For example, imagine a picture of a woman wearing a necklace. Which of the following best describes that idea concisely?
+
+* A woman.
+* A woman wearing a necklace, facing to the side.
+* An elderly woman wearing a silver necklace, facing to the side. The necklace is a lavalier design with an amethyst cabochon and filigree.
+* An 87-year old woman, Jane Doe, wearing a sterling silver necklace and facing to the side. Jane's hair is styled similar to Queen Elizabeth II's iconic hair. The necklace is an intricate lavalier design with a deep purple amethyst cabochon and fine filigree surrounding it.
+
+The first is too short to adequately describe the image. The last is much too long and detailed for a simple alt text, and would best serve descriptive text instead. Either of the middle two would work well, depending on the purpose of the image. If the goal is to look at the necklace in particular such as for a jewelry class, the added information can be useful.
+
+Complex images, such as graphs, should have much longer descriptions, and a variety of options are available for this. Typically this descriptive text makes the most sense either as a figure caption or within the written narrative. If neither of these are options, it may make the most sense to link to or describe an alternative location containing this descriptive text (e.g., alt="An elderly woman wearing a silver necklace, facing to the side. The necklace is a lavalier design with an amethyst cabochon and filigree. Full description can be found under section Key Aspects.") The key is that alt text should describe the key information for a screen reader, while descriptive text should be provided to all readers and provide in-depth information and context.
+
+If you are using images that contain text, that text should be included word-for-word within the alt text. This is most impactful on activity development when tables get involved, as they tend to have a large amount of text. Tables are frequently inserted fully as an image into documents, and this tends to lead to a lot of accessibility issues and additional work to fix those. It can often be easier to properly develop tables within the document than to try to make it elsewhere and adapt it. It is almost always best to avoid text inside of an image.
+
+There are some exemptions to these. One such exemption is for alt text for non-text content with the purpose of being an exercise or test that could become invalidated, such as a hearing test or CAPTCHA. For these sorts of purposes, a broad description can meet the requirements. [Examples of exceptions can be found here.](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content.html){target="_blank"}
+
+Images can be handled in a variety of ways. If using an LMS to create live documents or preparing something as a PDF/Word Doc, images can be inserted directly in from the device being used. If creating an HTML document, it is preferred to host the image online and embed it into the file. Considerations can include ease of access and uploading, permanence, security, and the proportion of time the host is online for.
+
+##### 3D Models and Embedding Frames
+
+Looking at 3D models through databases like SketchFab, embedding as iframes (short for inline frames) is possible. Inline frames serve the purpose of taking content from other sites and documents, such as full webpages, animations, or interactive simulations, and embedding it inline. While iframes do not inherently introduce any new accessibility concerns, their primary requirement is to include a meaningful title tag. 
+
+Unfortunately, that is where the ease of iframes ends. Any additional aspects for improving accessibility is at the discretion of the material being rendered within the frame. While you have done your job making the document read as accessible with the title tag, your embed can only ever be as accessible as the material it is using. What this means is that you would, in a perfect scenario, have full access to the content you want to embed so you can ensure it meets guidelines. In reality, you are often limited by the content creator.
+
+In the case of SketchFab models, some aspects such as keyboard interactivity can only be determined by the model creator. Due to this, should keyboard navigation not function for a given model, it is imperative to include an alternative for the reader such as a static image or an animated gif, both of which include alternative text. This is not ideal, but can often become a necessity. One positive of this is, should the frame not load for some reason, readers are able to fall back on another resource.
+
+Because of this limitation, we will need to either create our own models or utilize existing ones and accept that there may be some accessibility concerns. I would recommend thinking about the amount of time you have as a resource: creating high quality 3D models takes a lot of time and effort, so it may not be feasible to make a perfect activity your first time through. It may be worthwhile identifying which activities are the most important for this sort of engagement; if something is purely decorative or does not benefit from being able to manipulate it, it should not be a priority to find a model for.
+
+For our case, manipulating samples can be beneficial to students, but is not the only method used to identify rock types. Due to this, it was decided that we would utilize existing models for the time being, and upon receiving more feedback from students may invest in the time and equipment for creating our own.
+
+##### Other Aspects
+Additionally there are some tests that students would conduct in an in-person environment, such as seeing if a sample will scratch glass. While it would be possible to record someone conducting each of these tests, some effects may not be easily visible in a video and this may clog up the page with additional elements. Due to this, it may be preferential to provide a brief description rather than include a visual, unless further feedback provides a need for this. This is not something that would fit for alt text as we don't want to limit it to only students using a screen reader, and instead will be usable as a collapsible section. This way, all students who wish for the additional information are able to access it.
+
+Students also benefit from feedback. While in a lab environment their IA can provide this, we did not want to entirely give out answers for students for this section. We ended up creating a Google Form to check their answers to provide guidance before they apply this knowledge later in a formal assessment.
+
+#### Rock Cycle Review
+This is a new addition to the lab this semester, but is relatively simple. Before students go on the tour, they are expected to complete a rock cycle diagram within their lab manual, including information on where to find specific ID charts. The goal with this addition was to not only streamline student thoughts, but also to have them organize themselves to prepare for the midterm. This same activity can be completed at home with just a lab manual and something to write with. While the in-person students would have an IA to assist them, this is not the case should a student be completing outside the lab classroom. Due to this, we would still need to find an alternative method for some rock cycle review, such as through a video.
+
+##### Videos
+Videos can be really easy to ensure accessibility with. The biggest thing that can be a struggle is a video having captions that are not accurate. While software like YouTube will automatically caption videos, this does not guarantee accuracy, thus failing to meet accessibility guidelines. One method, although lengthy as far as time goes, is to manually enter the captions in a .txt file. It is possible to include timings with this method should it be deemed necessary. There are some software available that can help speed this process up. Things like OtterAI, VOMO, Zoom plugins, and other presentation software can all generate captions; the choice between them really just depends on the methods one would choose for making videos. No matter which gets used, it is required to double check captions for accuracy. [You can learn more about captions from W3 here](https://www.w3.org/WAI/media/av/captions/){target="_blank"}
+
+One common question is if providing a transcript is enough. This does not meet the requirements for Level AA, but is on the right track. Just as there are software that can generate captions, there are software that can add time stamps to provide synchronization. Once again, you will need to verify these timings.
+
+A massive concern for many is whether audio descriptions are necessary. The answer to this is, it depends. If all visual information is already provided within the audio of a video, no additional work needs to take place. While this may seem like an easy goal, it can add additional work by requiring scripting in advance to ensure all important information is portrayed audibly. This process is called integrated description. Most existing videos do not have audio description, so if using preexisting videos it may be worth checking to see if it meets this requirement. [Explanations from W3 of audio description requirement 1.2.5 can be found here](https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded.html){target="_blank"} One can also meet this requirement by providing two versions of a video, one with added pauses that allow for audio description. This can help with videos that may not have many pauses, or have long enough ones to convey important information.
+
+#### Rock Tour
+For the rock tour portion, we again will want to utilize videos, images, and models where applicable. As this portion is the real "meat" of the lab and addresses the most objectives, it also requires the most attention. An additional component for consideration would be the reason why a student would be completing the lab digitally; some students may prefer being able to physically partake in the tour and see the spots around campus and are only completing it digitally due to lack of available IAs. Physical and environmental barriers may prevent others from engaging.
+
+In order to best meet the needs of our students, we decided on providing two planned methods for completion, as well as a third option for students who may have an alternative option they feel meets the same criteria. These options are:
+
+1. Students may follow one of the Rock Tour paths available on the Bloomberg Connects App. While only one path has been developed at this point, this provides an opportunity for additional future paths to be developed.
+2. Students may follow along with the provided videos, images, and models. These are included as a file in this folder, but would normally be present on Blackboard. Videos are hosted on YouTube; should issues arise, they can follow along there.
+3. If they have an alternative method, they can coordinate with your IA to ensure that it would meet the expectations and learning outcomes of the lab.
+
+##### Tools and Resources
+For this segment, we are reusing many of the digital resource types we already saw. All locations have one or more static images and videos, while ones asking for identification include 3D models.
+
+For students who complete the lab via the Bloomberg Connects App, we wanted to ensure that an accessible path was available. This dictated the tour stops we utilized for the in-person tour, as well as the path chosen. Some considerations for these were volume (many USC Tours speak in front of Thomas Cooper Library near two of our stops), height of the stop (only one is low to the ground), and distance walked.
+
+#### Feedback
+The easiest part of this virtual lab for us was implementing our feedback system here. As our normal weekly survey is multiple choice, we simply recreated this in Google Forms. This allows us to collect the feedback in the same system but keep it separate from the in-person, traditional format.
+
+#### Development
+With the activities all designed, we can move on to development of resources. Development of these was done using free software (iMovie, Audacity) and technology available at Thomas Cooper Library, in addition to a Google Pixel 8 Pro being used as a camera. Edited videos were uploaded to YouTube, with raw images and videos being stored in a Google Drive for safe keeping.
+
+With all materials developed, it's time for implementation.
+
+### Example: Streams Lab
+The streams lab really only has one portion that is not standard text. However, as experimental design is hard to predict, several measures were implemented to allow for future revisions.
+
+1. The first bullet-point in "Notes" asks students whose design was not included to inform their IAs so we can add it later. This may be implemented through the use of a conditional logic form to direct students to watch the correct set of videos.
+2. Additional hints are provided to guide the student in case they struggle during the process.
+
+Most students historically have designed identical experiments to the one described as being designed by an IA, so this was chosen as our base experiment. This was left basic so that future revisions to the labs can be seamlessly integrated without complications (i.e. the set of videos use the same people to show they are connected).
+
+#### Feedback
+For a comparison, we elected to gather feedback for this lab via paper forms identical to their other weekly surveys. The way a virtual lab is identified is by a unique section number. This will likely be converted to a Google Form to streamline the process further in the future.
+
+#### Development
+With the activities all designed, we can move on to development of resources. Development of these was done using free software (iMovie, Audacity) and technology available at Thomas Cooper Library (GoPro). Edited videos were uploaded to YouTube, with raw videos being stored in a Google Drive for safe keeping.
+
+With all materials developed, it's time for implementation.
+
+## Step 3: Implementation & Revisions
+
+During this step, we will implement the activities in the course. 
+
+We will want to begin by testing the activities on our own. Without worrying about accessibility guidelines, are you able to complete the activity/meet the learning objectives? If not, you will need to go back and make changes to the activities. Do any of your assessment methods not seem to assess quite as well as you intended? Revise. Any time you make a change to the activity, you will want to start back at this step.
+
+Once the activities seem to work, go through and test things from an accessibility standpoint. Try using a screen reader on your document, watching a video with the audio muted, navigating the document with just a keyboard, putting the document through an automated accessibility checker like Blackboard Ally, etc. One of my personal favorites is the WAVE browser extension produced by WebAIM. This part should go relatively smoothly as you will have already made many of the key considerations during development. If you encounter any issues, now is your chance to go back and make changes before students see it. I like to go step by step through the WCAG guidelines and compare with my own documents. Now would also be a good time to have others look over your document to provide feedback.
+
+> Important!
+> Remember, automated accessibility checkers only check the document provided, and not embedded content; hence, it is also imperative that you thoroughly check any utilized resources for this. Similarly, automated processes may not be able to notice things that a human could, so you should do your best to verify yourself when possible.
+
+Once your activity passes all guidelines, you can disperse to your students.
+
+The final step to take is to continue revising. You as an instructor may have your own beliefs about how the activity can be improved, but your students are also able to provide feedback. If your activity is dispersed to all students, you can collect a large amount of information about what worked well and what did not. If the activity is only provided to a small subset, it may take more time before you collect much usable data.
+
+### Completion Checklist
+
+In order to be successful, you should:
+
+<fieldset class="checkbox-group">
+<legend class="sr-only"> Planning considerations for developing a virtual experience </legend>
+<div> 
+  <input type="checkbox" id="i1" name="implement" value="option1"> <label for="i1">Verify that objectives are being adequately taught & assessed</label>
+</div>
+<div>
+  <input type="checkbox" id="i2" name="implement" value="option2">
+  <label for="i2"> Test accessibility measures, both through automated and manual methods</label>
+</div>
+<div>
+  <input type="checkbox" id="i3" name="implement" value="option3">
+  <label for="i3">Have another person look over your document</label>
+</div>
+<div>
+  <input type="checkbox" id="i4" name="implement" value="option4">
+  <label for="i4"> Disperse to students and collect feedback</label>
+</div>
+<div>
+  <input type="checkbox" id="i5" name="implement" value="option5">
+  <label for="i5"> Revise </label>
+</div>
+</fieldset>
+
+## In Conclusion
+
+Those are just some guidelines to developing digitally accessible versions of lab activities. While we can do our best, we are human and can miss things. If you have any questions or feedback, please don't hesitate to reach out to me at thomswab@email.sc.edu

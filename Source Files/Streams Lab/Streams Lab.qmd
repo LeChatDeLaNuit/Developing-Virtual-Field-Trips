@@ -1,0 +1,207 @@
+---
+title: ""
+format: html
+---
+<div style="text-align: center;">
+
+# LAB 9: STREAM DISCHARGE 
+
+</div>
+
+## Objectives
+When you have completed this lab, you will be able to:
+
+1. Collect and interpret streamflow data
+2. Evaluate some of the factors that can cause streamflow to vary
+3. Convert between common hydrogeological units
+
+## Notes
+
+* This lab involves the development of an experiment. While we strive to accomodate a wide variety of plans, it is impossible for us to anticipate all possible experiments. If the design you made was not included in the virtual lab format, please inform your IA or the lab coordinator to ensure we can improve the lab for future semesters.
+* You will want to take notes throughout this lab by writing in your lab manual, *especially* the data collected in the stream. Being organized during data collection will help you out later on.
+* There will be questions throughout that you will need to answer. These should match up with the questions in your lab manual. In order to be able to take the post lab quiz, you will need to show your completed lab manual to your IA.
+* You will want to review the pre-lab information both before and during this lab, so ensure you have the information pulled up.
+* This lab is designed to function on any device, but a computer or laptop will work the best for most. If you do not have access to one of these devices, they may be checked out from the [Thomas Cooper Library](https://sc.edu/about/offices_and_divisions/university_libraries/find_services/borrow/technology/){target="_blank"}.
+* There are a number of embedded videos within this document. If you experience technology issues, refreshing the page is likely to fix them.
+
+## Materials
+
+Provided for you within the video: Meter stick, tape measure, plastic sphere, and a stopwatch.
+
+You will also need calculator to complete the math within this lab.
+
+## Lab Activities
+### Opening Activity
+#### Task 1
+Imagine you are planning a kayaking trip down the Congaree River this weekend.  You want to know how long it will take and what obstacles you might encounter (rocks, rapids, etc.).
+
+1. What information would you need to determine how long the trip will take you?
+
+</br>
+</br>
+</br>
+</br>
+
+2. What information might be useful to determine the type of obstacle you might encounter?
+
+</br>
+</br>
+</br>
+</br>
+
+
+
+### Exercise 1: Designing An Experiment
+
+#### Task 1: 
+
+Design an experiment to conduct at the stream to determine the following information: *average depth, average velocity, and average discharge*.
+
+Think about the following:
+    + What measurements do you need?
+    + How many of each measurement should you take?
+    + How many locations should you use?
+    + What calculations will you need to do?
+    + Is there anything else you want to learn?
+    
+Remember, there are a limited number and variety of tools we are able to utilize! See the "Materials" section above to see the full list. If you need some help, click the hint below.
+
+<details>
+    <summary> Experimental Design Hints </summary>
+
+* Measurements: We need average depth, average velocity, and average discharge. The "average" part implies that we need multiple measures of each thing. Discharge is a measure of volume over time--think about the formula for calculating the volume of a rectangular prism to help guide you in determining what might be needed.
+* Number of measurements: Depth, discharge, and velocity can change a lot across a stream. Rocky Branch Creek is pretty small, so we likely don't want too many measurements. We definitely need multiple in order to calculate an average!
+* Number of locations: For larger streams, we want larger numbers of sampling locations. Since Rocky Branch is so small, any more than 3 locations would likely lead to us having data overlap. We need more than one to ensure our trial wasn't a fluke.
+* What to calculate: Think of the things we are expected to find in our survey. Would you be able to directly measure any of them?
+
+</details>
+
+
+
+</br>
+</br>
+</br>
+</br>
+
+
+#### Task 2:
+We (the IAs) will now go out to the stream to implement your experiment. In your lab manual, there are 2 empty tables provided to organize your measurements. Here's the design the IAs came up with; how does yours compare?:
+
+<details>
+    <summary> IA Design </summary>
+
+* Measurements: We need average depth, average velocity, and average discharge. The "average" part implies that we need multiple measures of each thing. Discharge is a measure of volume over time. Velocity is a measure of distance over time; we can pull this out of the discharge and are then left with an area. This area would be the width of the stream as well as it's average depth.
+  + Width: Use a tape measure across the stream.
+  + Depth: We will find the average depth by finding the depth at several points across our trial line.
+  + Average Velocity: We will time how long an object at the surface takes to travel 1 meter. We will then find the average of these velocities.
+* Number of measurements: Width we will measure once at each location. Depth and velocity will be measured 5 times at each location, then averaged.
+* Number of locations: Since Rocky Branch is so small, any more than 3 locations would likely lead to us having data overlap. We need more than one to ensure our trial wasn't a fluke. This makes 2 a natural fit: one upstream and one downstream.
+* What to calculate: All of our averages need calculating. We also need to calculate velocities from time and distances.
+
+</details>
+
+
+</br>
+</br>
+</br>
+</br>
+
+Data to collect in your tables:
+
+  * Location: Upstream or Downstream
+  * Stream Width:
+  * Stream Depth At equally spaced 5 locations:
+  * Average Depth:
+  * Stream Velocity at location, measured 5 times in meters/second:
+  * Average Velocity:
+  * Any other information you think is important.
+
+</br>
+</br>
+</br>
+</br>
+
+Do this at the 2 locations below, starting with the upstream location.
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BS-fuKwjqEU" title="YouTube video player for the upstream location." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Onn_0inPdso" title="YouTube video player for the downstream location." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+
+
+#### Task 3: 
+
+Reflect on your experiment and answer the following questions.
+
+3. What was the average depth, velocity, and discharge of the stream?
+
+</br>
+</br>
+</br>
+</br>
+
+4. Does the velocity increase or decrease downstream? 
+
+</br>
+</br>
+</br>
+</br>
+
+5. Why do you think the velocity changed/stayed the same?
+
+</br>
+</br>
+</br>
+</br>
+
+
+6. How do you think the discharge in the creek changes day to day? What natural phenomena affect stream discharge?
+
+</br>
+</br>
+</br>
+</br>
+
+7. If we were to travel 100 miles downstream from where you did your stream gauging, would you expect the discharge to increase, decrease or stay the same? Why?
+
+</br>
+</br>
+</br>
+</br>
+
+8. What do you think went well with your experiment design?
+
+</br>
+</br>
+</br>
+</br>
+
+9. Where could you have improved your experiment?
+
+
+</br>
+</br>
+</br>
+</br>
+
+10. Is there anything else you wish you could have tested while out at the stream? Why?
+
+</br>
+</br>
+</br>
+</br>
+
+
+
+### Wrap Up
+
+Remember, in order to complete the post-lab quiz, you will need to show your filled in lab manual to your IA. 
+
+Once you have finished the rock tour portion of the lab, please provide feedback through a paper copy of the weekly survey so we can improve the virtual lab as needed in the future. For lab section, choose "99" to show you completed the virtual version.
