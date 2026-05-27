@@ -19,7 +19,7 @@ This will contain the files intended for you to read. This will contain individu
 
 [Metamorphic Rocks: Prelab](https://lechatdelanuit.github.io/Developing-Virtual-Field-Trips/Metamorphic%20Rocks%20Files/Metamorphics%20Prelab%20Reading.pdf)
 
-[Metamorphic Rocks: Rock Identification](https://lechatdelanuit.github.io/Developing-Virtual-Field-Trips/Metamorphic%20Rocks%20Files/Metamorphics%20ID%20and%20Review.html)
+[Metamorphic Rocks: Rock Identification](https://lechatdelanuit.github.io/Developing-Virtual-Field-Trips/Metamorphics%20Lab%20ID%20and%20Review.html)
 
 [Metamorphic Rocks: Rock Tour](https://lechatdelanuit.github.io/Developing-Virtual-Field-Trips/Metamorphic%20Rocks%20Files/Rock%20Tour%20Videos.html)
 
